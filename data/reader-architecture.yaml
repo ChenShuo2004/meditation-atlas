@@ -1,0 +1,245 @@
+schema_version: 1
+node_types:
+  - id: concept
+    label: 基础概念
+    short_label: 概念
+    description: 定义领域中的上位对象、状态与关键区别。
+    color: "#E58E8A"
+    selected_color: "#D76563"
+  - id: practice
+    label: 具体练习
+    short_label: 练习
+    description: 练习者可以实际执行、调整或停止的动作。
+    color: "#72B98A"
+    selected_color: "#438F63"
+  - id: process
+    label: 过程与机制
+    short_label: 过程
+    description: 解释注意、身体、念头和情绪怎样发生与变化。
+    color: "#62AFCA"
+    selected_color: "#3487A4"
+  - id: condition
+    label: 练习条件与困难
+    short_label: 条件与困难
+    description: 说明练习如何受环境、剂量、状态和具体卡点影响。
+    color: "#D9AE54"
+    selected_color: "#B68124"
+  - id: response
+    label: 现实回应
+    short_label: 回应
+    description: 把觉察转成调节、沟通、问题解决与现实行动。
+    color: "#E28B52"
+    selected_color: "#BE5D2C"
+  - id: evidence
+    label: 效果与证据
+    short_label: 证据
+    description: 判断效果命题、研究设计、时间尺度与个体差异。
+    color: "#8F83C6"
+    selected_color: "#6859AA"
+  - id: safety
+    label: 风险与边界
+    short_label: 风险与边界
+    description: 说明何时调整、停止、回到现实安全或寻求帮助。
+    color: "#C7687A"
+    selected_color: "#9E3F54"
+  - id: context
+    label: 传统与方案
+    short_label: 传统与方案
+    description: 保留实践的传统、课程、共同体与伦理语境。
+    color: "#6FA497"
+    selected_color: "#437A6E"
+l1_node_ids:
+  - EMO-001
+  - EMO-010
+  - EMO-013
+  - EMO-016
+  - EMO-020
+  - EMO-025
+  - EMO-027
+  - EVD-001
+  - EVD-002
+  - EVD-004
+  - EVD-039
+  - EXP-001
+  - EXP-006
+  - EXP-008
+  - EXP-016
+  - EXP-023
+  - EXP-026
+  - EXP-027
+  - MED-001
+  - MED-002
+  - MED-005
+  - MED-007
+  - MED-008
+  - MED-014
+  - MED-016
+  - MED-020
+  - MED-027
+  - MED-032
+  - MED-034
+  - PRA-001
+  - PRA-009
+  - PRA-010
+  - PRA-014
+  - PRA-020
+  - PRA-024
+  - PRA-029
+  - PRA-041
+  - SAF-001
+  - SAF-004
+  - SAF-016
+  - SAF-018
+  - SAF-040
+  - SAF-041
+  - SYS-001
+  - SYS-006
+  - SYS-009
+  - SYS-010
+  - SYS-013
+  - SYS-025
+entries:
+  - id: what-is-meditation
+    slug: what-is-meditation
+    title: 冥想到底是什么，又不是什么？
+    summary: 从工作定义出发，分清冥想、正念、放松、呼吸练习与日常觉察。
+    lead_node_id: MED-001
+    node_ids:
+      - MED-001
+      - MED-002
+      - MED-007
+      - MED-008
+      - MED-014
+      - MED-016
+    topic_ids: []
+  - id: practice-families
+    slug: practice-families
+    title: 不同冥想究竟在练什么？
+    summary: 沿注意方式、对象、动作和身体形式比较练习，不把不同维度混成单层分类。
+    lead_node_id: MED-005
+    node_ids:
+      - MED-005
+      - PRA-001
+      - PRA-009
+      - PRA-010
+      - PRA-014
+      - PRA-017
+      - PRA-020
+      - PRA-024
+      - MED-047
+    topic_ids: []
+  - id: mind-body-emotion
+    slug: mind-body-emotion
+    title: 注意、念头、身体和情绪发生了什么？
+    summary: 看见经验出现、注意被带走、发现偏离与重新选择之间的过程。
+    lead_node_id: EMO-001
+    node_ids:
+      - EMO-001
+      - SYS-001
+      - SYS-006
+      - SYS-009
+      - SYS-010
+      - SYS-013
+      - SYS-025
+      - EMO-013
+      - EMO-020
+    topic_ids: []
+  - id: getting-started
+    slug: getting-started
+    title: 我该怎样开始，并选一个适合当下的练习？
+    summary: 把意图、形式、剂量、状态匹配、观察和退出条件编成可修改的小实验。
+    lead_node_id: EXP-027
+    node_ids:
+      - EXP-001
+      - EXP-004
+      - EXP-005
+      - EXP-006
+      - EXP-008
+      - EXP-016
+      - EXP-023
+      - EXP-026
+      - EXP-027
+      - SAF-016
+    topic_ids:
+      - TOPIC-002
+  - id: practice-difficulties
+    slug: practice-difficulties
+    title: 走神、困倦、烦躁或不舒服，意味着什么？
+    summary: 先判断应该返回、调整、停止还是寻求现实支持，而不是把困难统一解释为练错。
+    lead_node_id: SAF-001
+    node_ids:
+      - SYS-006
+      - EXP-011
+      - EXP-012
+      - EXP-015
+      - EXP-016
+      - EXP-023
+      - SAF-001
+      - SAF-016
+    topic_ids:
+      - TOPIC-003
+  - id: everyday-life
+    slug: everyday-life
+    title: 冥想怎样进入情绪和现实生活？
+    summary: 从识别与暂停走到策略、关系、问题解决和现实行动。
+    lead_node_id: PRA-041
+    node_ids:
+      - EMO-007
+      - EMO-010
+      - EMO-011
+      - EMO-016
+      - EMO-020
+      - EMO-025
+      - EMO-027
+      - EXP-028
+      - PRA-029
+      - PRA-041
+    topic_ids:
+      - TOPIC-001
+  - id: effects-and-evidence
+    slug: effects-and-evidence
+    title: 冥想可能有什么作用，证据能支持到哪里？
+    summary: 先限定练习、人群、时间和结果，再判断具体效果主张。
+    lead_node_id: EVD-001
+    node_ids:
+      - EVD-001
+      - EVD-002
+      - EVD-004
+      - EVD-005
+      - EVD-006
+      - EVD-009
+      - EVD-011
+      - EVD-039
+      - SAF-040
+    topic_ids:
+      - TOPIC-004
+  - id: adjust-stop-help
+    slug: adjust-stop-help
+    title: 什么时候应该调整、停止或寻求帮助？
+    summary: 把一般困难、持续恶化、现实危险和专业支持边界分开。
+    lead_node_id: SAF-041
+    node_ids:
+      - SAF-041
+      - SAF-001
+      - SAF-004
+      - SAF-005
+      - SAF-010
+      - SAF-016
+      - SAF-018
+      - SAF-021
+    topic_ids: []
+  - id: traditions-and-programs
+    slug: traditions-and-programs
+    title: 冥想来自哪些传统和现代方案？
+    summary: 区分传统语境、世俗化、单项练习、多组件课程和练习伦理。
+    lead_node_id: MED-020
+    node_ids:
+      - MED-020
+      - MED-023
+      - MED-025
+      - MED-027
+      - MED-028
+      - MED-029
+      - MED-032
+      - MED-034
+    topic_ids: []
