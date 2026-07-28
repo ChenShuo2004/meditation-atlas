@@ -1,0 +1,216 @@
+# 精选公开来源
+
+这里汇总当前知识地图公开使用的去重来源。来源被收录不表示项目认可其全部主张；具体能支持什么、不能外推什么，以各节点正文中的证据边界为准。
+
+- **[Meditation and Mindfulness: Effectiveness and Safety](https://www.nccih.nih.gov/health/meditation-and-mindfulness-effectiveness-and-safety)** — 美国国家补充与整合健康中心（NCCIH）（2022-06（页面持续更新）） · 效果总览与医疗边界 · `SRC-491`
+- **[Meditation Programs for Psychological Stress and Well-being](https://pmc.ncbi.nlm.nih.gov/articles/PMC4142584/)** — Goyal 等（2014） · 效果综合与平均效应边界 · `SRC-323`
+- **[Mind the Hype: A Critical Evaluation and Prescriptive Agenda for Research on Mindfulness and Meditation](https://pubmed.ncbi.nlm.nih.gov/29016274/)** — Van Dam 等（2018） · 冥想研究方法边界 · `SRC-313`
+- **[A Randomized Controlled Trial of Mindfulness Meditation Versus Relaxation Training](https://pubmed.ncbi.nlm.nih.gov/17291166/)** — Jain 等（2007） · 短期状态变化与比较条件 · `SRC-315`
+- **[From a State to a Trait: Trajectories of State Mindfulness in Meditation During Intervention Predict Changes in Trait Mindfulness](https://pmc.ncbi.nlm.nih.gov/articles/PMC4404745/)** — Kiken 等（2015） · 状态—特质时间尺度 · `SRC-369`
+- **[The STROBE Statement: Guidelines for Reporting Observational Studies](https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.0040296)** — von Elm 等；STROBE Initiative（2007） · 观察研究与因果边界 · `SRC-511`
+- **[CONSORT 2025 Statement: Updated Guideline for Reporting Randomised Trials](https://pmc.ncbi.nlm.nih.gov/articles/PMC11995449/)** — Hopewell 等；CONSORT Group（2025） · 随机试验阅读框架 · `SRC-509`
+- **[Mindfulness-Based Stress Reduction vs Escitalopram for the Treatment of Adults With Anxiety Disorders](https://pmc.ncbi.nlm.nih.gov/articles/PMC9647561/)** — Hoge 等（2022） · 具体临床比较与治疗边界 · `SRC-492`
+- **[Absence of Structural Brain Changes From Mindfulness-Based Stress Reduction](https://pmc.ncbi.nlm.nih.gov/articles/PMC9122316/)** — Kral 等（2022） · 主动对照与复现案例 · `SRC-502`
+- **[Conceptual and Methodological Issues in Research on Mindfulness and Meditation](https://pubmed.ncbi.nlm.nih.gov/26436310/)** — Davidson、Kaszniak（2015） · 研究设计与解释边界 · `SRC-368`
+- **[The PRISMA 2020 Statement](https://pmc.ncbi.nlm.nih.gov/articles/PMC8005924/)** — Page 等；PRISMA Group（2021） · 系统综述阅读框架 · `SRC-510`
+- **[Reporting of Positive Results in Randomized Controlled Trials of Mindfulness-Based Mental Health Interventions](https://pmc.ncbi.nlm.nih.gov/articles/PMC4825994/)** — Coronado-Montoya 等（2016） · 发表偏倚与选择性报告 · `SRC-512`
+- **[Towards an Individual Differences Perspective in Mindfulness Training Research](https://pmc.ncbi.nlm.nih.gov/articles/PMC7248295/)** — Tang、Braver（2020） · 个体反应异质性 · `SRC-513`
+- **[Baseline Trait Mindfulness Moderates the Efficacy of Mindfulness Interventions and Active Controls](https://pubmed.ncbi.nlm.nih.gov/38721822/)** — Sieder 等（2024） · 调节信号与个人外推边界 · `SRC-514`
+- **[Psychological First Aid: Guide for Field Workers](https://www.who.int/publications-detail-redirect/9789241548205)** — WHO、War Trauma Foundation、World Vision International（2011） · 现实安全优先 · `SRC-290`
+- **[Mindfulness-Based Stress Reduction (MBSR): Exercises](https://www.guysandstthomas.nhs.uk/health-information/mindfulness-based-stress-reduction-mbsr/mbsr-exercises)** — Guy's and St Thomas' NHS Foundation Trust（持续更新） · 练习调整示例 · `SRC-459`
+- **[Adverse Events in Meditation Practices and Meditation-Based Therapies](https://pubmed.ncbi.nlm.nih.gov/32820538/)** — Farias 等（2020） · 不良体验与停止边界 · `SRC-515`
+- **[Practical Guide for Implementing a Trauma-Informed Approach](https://library.samhsa.gov/sites/default/files/pep23-06-05-005.pdf)** — 美国物质滥用与精神健康服务管理局（SAMHSA）（2023） · 选择权与创伤知情边界 · `SRC-516`
+- **[Help for Mental Illnesses](https://www.nimh.nih.gov/health/find-help)** — 美国国家心理健康研究所（NIMH）（持续更新） · 专业帮助入口 · `SRC-521`
+- **[Know the Science](https://www.nccih.nih.gov/health/know-science)** — 美国国家补充与整合健康中心（NCCIH）（持续更新） · 来源与主张辨认 · `SRC-525`
+- **[Cochrane Handbook, Chapter 14: Grading the Certainty of the Evidence](https://www.cochrane.org/authors/handbooks-and-manuals/handbook/current/chapter-14)** — Cochrane（2025-05 更新） · 证据确定性框架 · `SRC-527`
+- **[Mindfulness Training Modifies Subsystems of Attention](https://pubmed.ncbi.nlm.nih.gov/17672382/)** — Jha、Krompinger、Baime（2007） · 注意训练与研究边界 · `SRC-273`
+- **[The Lights Are On but No One's Home](https://pubmed.ncbi.nlm.nih.gov/17874601/)** — Smallwood、McSpadden、Schooler（2007） · 走神与元觉察 · `SRC-274`
+- **[Mind Wandering and Attention During Focused Meditation](https://pubmed.ncbi.nlm.nih.gov/21782031/)** — Hasenkamp 等（2012） · 专注练习循环 · `SRC-275`
+- **[Emotion Drives Attention: Detecting the Snake in the Grass](https://pubmed.ncbi.nlm.nih.gov/11561921/)** — Öhman、Flykt、Esteves（2001） · 威胁线索与注意捕获 · `SRC-276`
+- **[Patterns of Cognitive Appraisal in Emotion](https://doi.org/10.1037/0022-3514.48.4.813)** — Smith、Ellsworth（1985） · 情绪评价结构 · `SRC-277`
+- **[Angry, Disgusted, or Afraid?](https://pubmed.ncbi.nlm.nih.gov/18727789/)** — Aviezer 等（2008） · 情境与情绪知觉 · `SRC-278`
+- **[The Tie That Binds?](https://pubmed.ncbi.nlm.nih.gov/15982083/)** — Mauss、Levenson、McCarter、Wilhelm、Gross（2005） · 情绪组件与身体边界 · `SRC-279`
+- **[Bodily Maps of Emotions](https://pmc.ncbi.nlm.nih.gov/articles/PMC3896150/)** — Nummenmaa 等（2014） · 主观身体感觉 · `SRC-280`
+- **[Cognitive Self-Statements in Depression](https://doi.org/10.1007/BF01178214)** — Hollon、Kendall（1980） · 自动思维测量 · `SRC-281`
+- **[Relations Among Emotion, Appraisal, and Emotional Action Readiness](https://doi.org/10.1037/0022-3514.57.2.212)** — Frijda、Kuipers、ter Schure（1989） · 行动准备与情绪 · `SRC-282`
+- **[Phenomenology, Behaviors, and Goals Differentiate Discrete Emotions](https://doi.org/10.1037/0022-3514.67.2.206)** — Roseman、Wiest、Swartz（1994） · 情绪组件区分 · `SRC-283`
+- **[Emotional Suppression](https://doi.org/10.1037/0022-3514.64.6.970)** — Gross、Levenson（1993） · 表达、体验与生理区分 · `SRC-284`
+- **[Habits in Everyday Life](https://doi.org/10.1037/0022-3514.83.6.1281)** — Wood、Quinn、Kashy（2002） · 情境与习惯自动性 · `SRC-285`
+- **[Does Venting Anger Feed or Extinguish the Flame?](https://doi.org/10.1177/0146167202289002)** — Bushman（2002） · 反刍与愤怒升级 · `SRC-287`
+- **[Effects of Responses to Depression on Depressive Affect](https://pubmed.ncbi.nlm.nih.gov/2324941/)** — Morrow、Nolen-Hoeksema（1990） · 反刍与情绪持续 · `SRC-288`
+- **[Mindfulness as a Means of Reducing Aggressive Behavior](https://pubmed.ncbi.nlm.nih.gov/18464229/)** — Heppner 等（2008） · 暂停与行动选择线索 · `SRC-289`
+- **[Doing What Matters in Times of Stress](https://www.who.int/publications/i/item/9789240003927)** — 世界卫生组织（WHO）（2020） · 接纳与现实行动边界 · `SRC-293`
+- **[Antecedent- and Response-Focused Emotion Regulation](https://pubmed.ncbi.nlm.nih.gov/9457784/)** — Gross（1998） · 调节策略组件 · `SRC-297`
+- **[Emotion-Regulation Choice](https://pubmed.ncbi.nlm.nih.gov/21960251/)** — Sheppes、Scheibe、Suri、Gross（2011） · 状态与策略选择 · `SRC-298`
+- **[Event Processing and the Duration of Emotional Experience](https://pubmed.ncbi.nlm.nih.gov/21401221/)** — Verduyn、Van Mechelen、Tuerlinckx（2011） · 情绪持续时间 · `SRC-306`
+- **[What Is Meditation?](https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2019.02276/full)** — Matko、Sedlmeier（2019） · 冥想实践家族 · `SRC-310`
+- **[Attention Regulation and Monitoring in Meditation](https://pmc.ncbi.nlm.nih.gov/articles/PMC2693206/)** — Lutz、Slagter、Dunne、Davidson（2008） · 专注与开放监测 · `SRC-311`
+- **[Mindfulness: A Proposed Operational Definition](https://doi.org/10.1093/clipsy.bph077)** — Bishop 等（2004） · 正念工作定义 · `SRC-312`
+- **[Reconstructing and Deconstructing the Self](https://pubmed.ncbi.nlm.nih.gov/26231761/)** — Dahl、Lutz、Davidson（2015） · 冥想分类补充 · `SRC-314`
+- **[Awakening Is Not a Metaphor](https://pmc.ncbi.nlm.nih.gov/articles/PMC4054695/)** — Britton、Lindahl、Cahn、Davis、Goldman（2014） · 传统与现代目标语境 · `SRC-324`
+- **[Autonomic Dysregulation and the Window of Tolerance Model](https://pubmed.ncbi.nlm.nih.gov/20093318/)** — Corrigan、Fisher、Nutt（2011） · 激活状态与模型边界 · `SRC-385`
+- **[Home Practice in MBCT and MBSR](https://pmc.ncbi.nlm.nih.gov/articles/PMC5501725/)** — Parsons 等（2017） · 练习剂量边界 · `SRC-487`
+- **[Excessive Daytime Sleepiness (Hypersomnia)](https://www.nhs.uk/conditions/excessive-daytime-sleepiness-hypersomnia/)** — 英国 NHS（2023-06-23 最近审阅） · 困倦与就医边界 · `SRC-488`
+- **[Toward a Psychobiology of Posttraumatic Self-Dysregulation](https://pubmed.ncbi.nlm.nih.gov/16891566/)** — Lanius 等（2006） · 情绪麻木与创伤边界 · `SRC-336`
+- **[Can Antidepressant Use Be Associated With Emotional Blunting?](https://pubmed.ncbi.nlm.nih.gov/37184083/)** — Marwood 等（2023） · 情绪钝化归因边界 · `SRC-337`
+- **[PTSD and DSM-5](https://www.ptsd.va.gov/professional/treat/essentials/dsm5_ptsd.asp)** — 美国退伍军人事务部国家 PTSD 中心（持续更新） · 创伤反应与诊断边界 · `SRC-388`
+- **[Post-Traumatic Stress Disorder](https://www.who.int/news-room/fact-sheets/detail/post-traumatic-stress-disorder)** — 世界卫生组织（WHO）（2024-05-27） · 创伤反应与求助边界 · `SRC-389`
+- **[Resilience to Loss and Potential Trauma](https://pubmed.ncbi.nlm.nih.gov/21091190/)** — Bonanno、Westphal、Mancini（2011） · 创伤后异质轨迹 · `SRC-390`
+- **[Are There Two Qualitatively Distinct Forms of Dissociation?](https://pubmed.ncbi.nlm.nih.gov/15596078/)** — Holmes 等（2005） · 解离概念辨析 · `SRC-391`
+- **[What Are Dissociative Disorders?](https://www.psychiatry.org/patients-families/dissociative-disorders/what-are-dissociative-disorders)** — 美国精神医学学会（APA）（持续更新） · 解离定义与求助边界 · `SRC-392`
+- **[Effectiveness of Traditional Meditation Retreats](https://doi.org/10.1016/j.jpsychores.2016.11.006)** — Khoury 等（2017） · 闭关效果与外推边界 · `SRC-435`
+- **[The Varieties of Contemplative Experience](https://pmc.ncbi.nlm.nih.gov/articles/PMC5443484/)** — Lindahl 等（2017） · 困难体验范围与闭关情境 · `SRC-436`
+- **[Defining and Measuring Meditation-Related Adverse Effects](https://pmc.ncbi.nlm.nih.gov/articles/PMC8845498/)** — Britton 等（2021） · 不良影响分层与监测 · `SRC-437`
+- **[A Phenomenology of Meditation-Induced Light Experiences](https://pmc.ncbi.nlm.nih.gov/articles/PMC3879457/)** — Lindahl 等（2014） · 异常体验的描述与解释边界 · `SRC-452`
+- **[Meditation-Induced Psychosis](https://pubmed.ncbi.nlm.nih.gov/31668156/)** — Sharma、Mahapatra、Gupta（2019／2022） · 精神病性状态与伴随条件 · `SRC-454`
+- **[Schizophrenia](https://www.nimh.nih.gov/health/publications/schizophrenia)** — 美国国家精神卫生研究所（NIMH）（持续更新） · 异常体验的临床求助边界 · `SRC-455`
+- **[Coping With Traumatic Stress Reactions](https://www.ptsd.va.gov/gethelp/coping_stress_reactions.asp)** — 美国退伍军人事务部国家 PTSD 中心（持续更新） · 现实定向与求助 · `SRC-465`
+- **[Shortness of Breath](https://www.nhs.uk/conditions/shortness-of-breath/)** — 英国 NHS（2024-01-30 最近审阅） · 呼吸困难急性边界 · `SRC-489`
+- **[Heart Palpitations](https://www.nhs.uk/conditions/heart-palpitations/)** — 英国 NHS（2026-03-17 最近审阅） · 心悸与急性警讯 · `SRC-490`
+- **[Panic Disorder: What You Need to Know](https://www.nimh.nih.gov/health/publications/panic-disorder-when-fear-overwhelms)** — 美国国家精神卫生研究所（NIMH）（2025-03） · 惊恐辨析与治疗边界 · `SRC-517`
+- **[Depressive Disorder (Depression)](https://www.who.int/news-room/fact-sheets/detail/depression)** — 世界卫生组织（WHO）（2025-08-29） · 严重抑郁与治疗边界 · `SRC-518`
+- **[Mental Health and Psychosocial Support Platform—Suicide](https://www.emro.who.int/mhps/suicide.html)** — 世界卫生组织东地中海区域办事处（持续更新） · 自杀风险与危机安全 · `SRC-519`
+- **[Breathing Exercises in the Treatment of Hyperventilation](https://www.cuh.nhs.uk/patient-information/breathing-exercises-in-the-treatment-of-hyperventilation/)** — Cambridge University Hospitals NHS Foundation Trust（持续更新） · 过度呼吸与症状边界 · `SRC-520`
+- **[Maranassati Sutta: Mindfulness of Death (AN 6.19)](https://www.accesstoinsight.org/tipitaka/an/an06/an06.019.than.html)** — 巴利《增支部》；Thanissaro Bhikkhu 英译（公开译本修订 2013） · 死亡观传统语境 · `SRC-522`
+- **[Reiki](https://www.nccih.nih.gov/health/reiki)** — 美国国家补充与整合健康中心（NCCIH）（2018-12 更新） · 能量机制与健康主张边界 · `SRC-526`
+- **[Worry Impairs the Problem-Solving Process](https://pubmed.ncbi.nlm.nih.gov/33129156/)** — Llera、Newman（2020） · 担忧与问题解决边界 · `SRC-291`
+- **[Anxiety Disorders](https://www.nimh.nih.gov/health/topics/anxiety-disorders)** — 美国国家心理健康研究所（NIMH）（持续更新） · 焦虑临床与求助边界 · `SRC-325`
+- **[Depression](https://www.nimh.nih.gov/health/publications/depression)** — 美国国家心理健康研究所（NIMH）（2024-12 更新） · 低落与抑郁临床边界 · `SRC-327`
+- **[Freeze for Action: Neurobiological Mechanisms in Animal and Human Freezing](https://pmc.ncbi.nlm.nih.gov/articles/PMC5332864/)** — Roelofs（2017） · 僵住反应与机制边界 · `SRC-386`
+- **[Fear and the Defense Cascade: Clinical Implications and Management](https://pmc.ncbi.nlm.nih.gov/articles/PMC4495877/)** — Kozlowska 等（2015） · 威胁防御反应模型 · `SRC-387`
+- **[IASP Terminology: Pain](https://www.iasp-pain.org/resources/terminology/)** — 国际疼痛研究协会（IASP）（2020 修订） · 疼痛定义与个人经验边界 · `SRC-393`
+- **[The Revised International Association for the Study of Pain Definition of Pain](https://pubmed.ncbi.nlm.nih.gov/32694387/)** — Raja 等（2020） · 疼痛定义修订 · `SRC-394`
+- **[Theoretical Perspectives on the Relation Between Catastrophizing and Pain](https://pubmed.ncbi.nlm.nih.gov/11289089/)** — Sullivan 等（2001） · 疼痛评价与因果边界 · `SRC-395`
+- **[Mindfulness Meditation for Chronic Pain](https://pmc.ncbi.nlm.nih.gov/articles/PMC5368208/)** — Hilton 等（2017） · 慢性疼痛效果与安全边界 · `SRC-396`
+- **[Distinguishing Sleepiness and Fatigue](https://pubmed.ncbi.nlm.nih.gov/16376590/)** — Shen、Barbera、Shapiro（2006） · 困倦与疲劳辨析 · `SRC-397`
+- **[Sleep and Emotion Regulation: An Organizing, Integrative Review](https://pubmed.ncbi.nlm.nih.gov/26899742/)** — Palmer、Alfano（2017） · 睡眠与情绪双向关系 · `SRC-398`
+- **[Drowsy Driving](https://www.nhtsa.gov/risky-driving/drowsy-driving)** — 美国国家公路交通安全管理局（NHTSA）（持续更新） · 困倦与驾驶安全 · `SRC-399`
+- **[Behavioral and Psychological Treatments for Chronic Insomnia Disorder in Adults](https://pmc.ncbi.nlm.nih.gov/articles/PMC7853203/)** — 美国睡眠医学学会（AASM）（2021） · 慢性失眠治疗边界 · `SRC-400`
+- **[A Brief Mindfulness-Based Intervention for Chronic Pain](https://pubmed.ncbi.nlm.nih.gov/37310492/)** — Davies 等（2023） · 疼痛主动对照与特异效果 · `SRC-404`
+- **[Efficacy of Mindfulness-Based Cognitive Therapy in Prevention of Depressive Relapse](https://pubmed.ncbi.nlm.nih.gov/27119968/)** — Kuyken 等（2016） · 抑郁复发预防边界 · `SRC-425`
+- **[Mindful Eating](https://nutritionsource.hsph.harvard.edu/mindful-eating/)** — Harvard T.H. Chan School of Public Health（持续更新） · 正念饮食定义与体重边界 · `SRC-476`
+- **[Effects of Mindfulness-Based Interventions on Obesity-Related Eating Behaviors](https://pubmed.ncbi.nlm.nih.gov/39489689/)** — Kao 等（2025） · 进食行为效果与外推边界 · `SRC-477`
+- **[The Effect of Mindfulness Meditation on Sleep Quality](https://pmc.ncbi.nlm.nih.gov/articles/PMC6557693/)** — Rusch 等（2019） · 睡眠效果与比较条件 · `SRC-494`
+- **[Mindfulness-Based Interventions for Craving and Substance Misuse](https://pubmed.ncbi.nlm.nih.gov/30016796/)** — Cavicchioli 等（2018） · 渴求与物质使用效果边界 · `SRC-495`
+- **[Human Nature, Buddha Nature](https://tricycle.org/magazine/human-nature-buddha-nature/)** — Tina Fossella 访谈 John Welwood（2011） · 灵性逃避概念原意 · `SRC-523`
+- **[More Than a Feeling: A Unified View of Stress Measurement](https://pmc.ncbi.nlm.nih.gov/articles/PMC6345505/)** — Epel 等（2018） · 压力结局与测量边界 · `SRC-305`
+- **[Best Practices for Stress Measurement](https://pmc.ncbi.nlm.nih.gov/articles/PMC7359652/)** — Crosswell、Lockwood（2020） · 主客观指标组合 · `SRC-382`
+- **[MBSR Authorized Curriculum Guide](https://mbsr.website/sites/default/files/docs/mbsr-curriculum-guide-2017.pdf)** — Santorelli、Meleo-Meyer、Koerbel、Kabat-Zinn 等（2017） · MBSR 方案身份 · `SRC-422`
+- **[What Defines Mindfulness-Based Programs?](https://doi.org/10.1017/S0033291716003317)** — Crane 等（2017） · 多组件方案与改编边界 · `SRC-423`
+- **[Depression in Adults: Treatment and Management](https://www.nice.org.uk/guidance/ng222/chapter/recommendations)** — 英国国家卫生与临床优化研究所（NICE）（2022） · MBCT 临床适用边界 · `SRC-424`
+- **[Modifying Resilience Mechanisms in At-Risk Individuals](https://pmc.ncbi.nlm.nih.gov/articles/PMC4458258/)** — Johnson 等（2014） · MMFT 压力恢复证据 · `SRC-426`
+- **[Minds “At Attention”](https://pmc.ncbi.nlm.nih.gov/articles/PMC4324839/)** — Jha 等（2015） · 注意任务与军事外推 · `SRC-427`
+- **[Impact of Mindfulness Meditation Programs on Performance-Related Outcomes](https://pmc.ncbi.nlm.nih.gov/articles/PMC9718060/)** — Hepner 等（2022） · 军事实施与效果边界 · `SRC-428`
+- **[Dismantling Mindfulness-Based Programs](https://pmc.ncbi.nlm.nih.gov/articles/PMC9937445/)** — Stein、Witkiewitz（2020） · 完整方案与单项组件边界 · `SRC-431`
+- **[Loving-Kindness and Compassion Meditation](https://pmc.ncbi.nlm.nih.gov/articles/PMC3176989/)** — Hofmann、Grossman、Hinton（2011） · 慈心慈悲构念边界 · `SRC-440`
+- **[Effect of Loving-Kindness Meditation on Positive Emotions](https://pmc.ncbi.nlm.nih.gov/articles/PMC4630307/)** — Zeng 等（2015） · 慈心与正向情绪效果 · `SRC-441`
+- **[A Mind You Can Count On](https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2014.01202/full)** — Levinson 等（2014） · 行为指标与构念边界 · `SRC-461`
+- **[Does Mindfulness Training Improve Cognitive Abilities?](https://pubmed.ncbi.nlm.nih.gov/21183265/)** — Chiesa、Calati、Serretti（2011） · 注意效果与任务外推 · `SRC-493`
+- **[Meditation and Cardiovascular Risk Reduction](https://pmc.ncbi.nlm.nih.gov/articles/PMC5721815/)** — 美国心脏协会（AHA）（2017） · 心血管效果与治疗边界 · `SRC-496`
+- **[Mindfulness Meditation and the Immune System](https://pmc.ncbi.nlm.nih.gov/articles/PMC4940234/)** — Black、Slavich（2016） · 免疫指标与临床外推 · `SRC-497`
+- **[Molecular Signature of Mind-Body Interventions](https://pmc.ncbi.nlm.nih.gov/articles/PMC5472657/)** — Buric 等（2017） · 基因表达与抗衰边界 · `SRC-498`
+- **[What We Can Do and What We Cannot Do With fMRI](https://pubmed.ncbi.nlm.nih.gov/18548064/)** — Nikos K. Logothetis（2008） · 仪器指标与解释链 · `SRC-507`
+- **[Is Meditation Associated With Altered Brain Structure?](https://pubmed.ncbi.nlm.nih.gov/24705269/)** — Fox 等（2014） · 脑结构因果边界 · `SRC-501`
+- **[Functional Neuroanatomy of Meditation](https://pubmed.ncbi.nlm.nih.gov/27032724/)** — Fox 等（2016） · 脑功能与练习异质性 · `SRC-503`
+- **[Meditation States and Traits](https://pubmed.ncbi.nlm.nih.gov/16536641/)** — Cahn、Polich（2006） · EEG 与状态特质边界 · `SRC-506`
+- **[The Default Network and Self-Generated Thought](https://pubmed.ncbi.nlm.nih.gov/24502540/)** — Andrews-Hanna、Smallwood、Spreng（2014） · 默认网络功能边界 · `SRC-355`
+- **[Working Memory: Theories, Models, and Controversies](https://pubmed.ncbi.nlm.nih.gov/21961947/)** — Alan Baddeley（2012） · 工作记忆构念边界 · `SRC-360`
+- **[From Reactive to Proactive and Selective Control](https://pmc.ncbi.nlm.nih.gov/articles/PMC3039712/)** — Aron（2011） · 抑制任务外推边界 · `SRC-362`
+- **[The Plastic Human Brain Cortex](https://pubmed.ncbi.nlm.nih.gov/16022601/)** — Pascual-Leone 等（2005） · 神经可塑性方向边界 · `SRC-365`
+- **[Interoception and Mental Health: A Roadmap](https://pmc.ncbi.nlm.nih.gov/articles/PMC6054486/)** — Khalsa 等（2018） · 身体感觉测量边界 · `SRC-371`
+- **[Breathing Rhythms and Emotions](https://doi.org/10.1113/expphysiol.2008.042424)** — Homma、Masaoka（2008） · 呼吸节律与情绪边界 · `SRC-373`
+- **[Overview of the Autonomic Nervous System](https://pubmed.ncbi.nlm.nih.gov/27347892/)** — Wehrwein、Orer、Barman（2016） · 自主神经系统边界 · `SRC-375`
+- **[Regulation of the HPA Stress Response](https://pmc.ncbi.nlm.nih.gov/articles/PMC4867107/)** — Herman 等（2016） · HPA 轴时间与个人外推 · `SRC-377`
+- **[Overview of Heart Rate Variability Metrics and Norms](https://pmc.ncbi.nlm.nih.gov/articles/PMC5624990/)** — Shaffer、Ginsberg（2017） · HRV 指标解释边界 · `SRC-379`
+- **[Stress Revisited](https://pubmed.ncbi.nlm.nih.gov/21316391/)** — Koolhaas 等（2011） · 急慢性压力概念边界 · `SRC-384`
+- **[The Neuroscience of Placebo Effects](https://pubmed.ncbi.nlm.nih.gov/26087681/)** — Wager、Atlas（2015） · 期待效应与真假边界 · `SRC-402`
+- **[The Alliance in Adult Psychotherapy](https://pubmed.ncbi.nlm.nih.gov/29792475/)** — Flückiger 等（2018） · 关系与结果因果边界 · `SRC-405`
+- **[How Breath-Control Can Change Your Life](https://pmc.ncbi.nlm.nih.gov/articles/PMC6137615/)** — Zaccaro 等（2018） · 主动呼吸与机制边界 · `SRC-316`
+- **[Brief Structured Respiration Practices Enhance Mood and Reduce Physiological Arousal](https://pmc.ncbi.nlm.nih.gov/articles/PMC9873947/)** — Balban 等（2023） · 循环叹息与短期外推边界 · `SRC-317`
+- **[Can Acceptance, Mindfulness, and Self-Compassion Be Learned by Smartphone Apps?](https://pubmed.ncbi.nlm.nih.gov/32586436/)** — Linardon 等（2020） · 自助应用效果与质量边界 · `SRC-429`
+- **[Impact of Guidance on Intervention Adherence in Computerised Interventions for Mental Health Problems](https://pubmed.ncbi.nlm.nih.gov/34802474/)** — Musiat 等（2022） · 自助方案支持强度 · `SRC-430`
+- **[The Buddhist Tantras: A Guide](https://academic.oup.com/book/51700)** — David B. Gray（2023） · 密法历史语境与授权边界 · `SRC-450`
+- **[Preliminary Practices and the Formation of Tibetan Buddhism](https://escholarship.org/uc/item/9bz5n3v8)** — John Pickens（2022） · 师徒结构历史边界 · `SRC-451`
+- **[Practitioner’s Guide to Ethics and Mindfulness-Based Interventions](https://link.springer.com/book/10.1007/978-3-319-64924-5)** — Monteiro、Compson、Musten 编（2017） · 练习关系与机构伦理 · `SRC-433`
+- **[Attention Regulation and Monitoring in Meditation](https://pmc.ncbi.nlm.nih.gov/articles/PMC2693206/)** — Lutz、Slagter、Dunne、Davidson（2008） · 注意练习分类边界 · `SRC-460`
+- **[5-4-3-2-1 Grounding Technique](https://www.hey.nhs.uk/wp/wp-content/uploads/2023/02/HEY1318-2022-5-4-3-2-1-Grounding-Technique.pdf)** — Hull University Teaching Hospitals NHS Trust（2023） · 感官定向动作与安全边界 · `SRC-464`
+- **[The Effects of Body Scan Meditation](https://pubmed.ncbi.nlm.nih.gov/35538557/)** — Gan、Zhang、Chen（2022） · 身体扫描单项效果边界 · `SRC-468`
+- **[Mettasutta—Loving Kindness](https://suttacentral.net/snp1.8/en/sujato)** — SuttaCentral；Bhikkhu Sujato 译（传统文本） · 慈心传统语境 · `SRC-470`
+- **[A Meta-Analysis of Compassion-Based Interventions](https://pubmed.ncbi.nlm.nih.gov/29029675/)** — Kirby、Tellegen、Steindl（2017） · 慈悲方案效果边界 · `SRC-471`
+- **[Empathy and Compassion](https://pubmed.ncbi.nlm.nih.gov/25247366/)** — Singer、Klimecki（2014） · 共情与慈悲概念边界 · `SRC-472`
+- **[How to Practice Tonglen Meditation](https://www.lionsroar.com/how-to-practice-tonglen/)** — Pema Chödrön；Lion’s Roar（页面持续更新） · 施受传统做法与自学边界 · `SRC-473`
+- **[Effectiveness of Mantra-Based Meditation on Mental Health](https://pmc.ncbi.nlm.nih.gov/articles/PMC8949812/)** — Álvarez-Pérez 等（2022） · 重复语句效果与安全边界 · `SRC-322`
+- **[Yoga: Effectiveness and Safety](https://www.nccih.nih.gov/health/yoga-what-you-need-to-know)** — 美国国家补充与整合健康中心（NCCIH）（2023（页面持续更新）） · 瑜伽动作安全与外推边界 · `SRC-475`
+- **[Emotional and Physical Health Benefits of Expressive Writing](https://www.cambridge.org/core/journals/advances-in-psychiatric-treatment/article/emotional-and-physical-health-benefits-of-expressive-writing/ED2976A61F5DE56B46F07A1CE9EA9F9F)** — Baikie、Wilhelm（2005） · 情绪书写动作与风险边界 · `SRC-483`
+- **[Effects of Yoga Nidra on Stress, Anxiety, and Depression](https://pmc.ncbi.nlm.nih.gov/articles/PMC12917937/)** — Ghai 等（2026） · Yoga Nidra 效果边界 · `SRC-484`
+- **[Efficacy of Progressive Muscle Relaxation in Adults for Stress, Anxiety, and Depression](https://pmc.ncbi.nlm.nih.gov/articles/PMC10844009/)** — Muhammad Khir 等（2024） · 渐进肌肉放松效果边界 · `SRC-485`
+- **[Relaxation Techniques: What You Need To Know](https://www.nccih.nih.gov/health/relaxation-techniques-what-you-need-to-know)** — 美国国家补充与整合健康中心（NCCIH）（页面持续更新） · 放松练习定义与安全边界 · `SRC-486`
+- **[Self Help Resources: Grounding Techniques](https://www.hampshirehospitals.nhs.uk/our-services/a-z-departments-and-specialties/bereavement/maternity-bereavement-service/self-help)** — Hampshire Hospitals NHS Foundation Trust（页面持续更新） · 接触锚定与现实定向 · `SRC-463`
+- **[Decentering and Related Constructs](https://pubmed.ncbi.nlm.nih.gov/26385999/)** — Bernstein 等（2015） · 念头标记与去中心化边界 · `SRC-347`
+- **[Putting Feelings Into Words](https://pubmed.ncbi.nlm.nih.gov/17576282/)** — Lieberman 等（2007） · 情绪标记任务与脑外推 · `SRC-295`
+- **[Putting Feelings Into Words: Affect Labeling as Implicit Emotion Regulation](https://www.scn.ucla.edu/pdf/Torre(2018)PuttingFeelingsIntoWords.pdf)** — Torre、Lieberman（2018） · 情绪标记效果条件 · `SRC-469`
+- **[Mental Imagery in Emotion and Emotional Disorders](https://pubmed.ncbi.nlm.nih.gov/20116915/)** — Holmes、Mathews（2010） · 意象体验与停止边界 · `SRC-321`
+- **[Mindful Walking by Sarah Pace](https://oxfordmindfulness.org/free-meditations/mindful-walking-by-sarah-pace)** — Oxford Mindfulness（2026） · 行走练习动作与环境边界 · `SRC-474`
+- **[Mindfulness](https://www.nhs.uk/mental-health/self-help/tips-and-support/mindfulness/)** — 英国 NHS（2021（页面持续更新）） · 日常觉察与适用边界 · `SRC-478`
+- **[Breathing Space by Claire Kelly](https://www.oxfordmindfulness.org/free-meditations/example-recorded-practise-4)** — Oxford Mindfulness（2024） · 呼吸空间结构与效果边界 · `SRC-479`
+- **[Thought Record CBT Exercise](https://www.nhs.uk/every-mind-matters/mental-wellbeing-tips/self-help-cbt-techniques/thought-record/)** — 英国 NHS Every Mind Matters（2022） · 想法记录动作与现实边界 · `SRC-480`
+- **[The Socratic Method in Cognitive Behavioural Therapy](https://doi.org/10.1007/s10608-015-9707-3)** — Clark、Egan（2015） · 苏格拉底提问方法边界 · `SRC-481`
+- **[On the Universality and Cultural Specificity of Emotion Recognition](https://pubmed.ncbi.nlm.nih.gov/11931516/)** — Elfenbein、Ambady（2002） · 情绪识别与文化外推 · `SRC-308`
+- **[The Relaxation Response](https://pubmed.ncbi.nlm.nih.gov/4810622/)** — Benson、Beary、Carol（1974） · 放松概念与机制边界 · `SRC-320`
+- **[Home Practice in MBCT and MBSR](https://pmc.ncbi.nlm.nih.gov/articles/PMC5501725/)** — Parsons 等（2017） · 正式练习剂量边界 · `SRC-318`
+- **[An Exploration of Formal and Informal Mindfulness Practice](https://link.springer.com/article/10.1007/s12671-018-0951-y)** — Birtwell、Williams、van Marwijk（2019） · 练习场景与因果边界 · `SRC-319`
+- **[Ethics, Values, Virtues, and Character Strengths in Mindfulness-Based Interventions](https://doi.org/10.1007/s12671-015-0419-2)** — Ruth A. Baer（2015） · 练习伦理与道德外推 · `SRC-432`
+- **[Sangha](https://academic.oup.com/obo/viewentry/10.1093%24002fobo%24002f9780195393521-0006)** — Thomas Borchert（2012） · 僧团语义与团体边界 · `SRC-434`
+- **[Mahā-Assapura Sutta (MN 39)](https://suttacentral.net/mn39/en/sujato)** — SuttaCentral；Bhikkhu Sujato 译（传统文本） · 禅定传统文本语境 · `SRC-438`
+- **[Toward a Unified Account of Advanced Concentrative Absorption Meditation](https://meditation.mgh.harvard.edu/files/Sparby_24_Mindfulness.pdf)** — Sparby、Sacchet（2024） · 禅那定义争议 · `SRC-439`
+- **[Anattalakkhaṇa Sutta (SN 22.59)](https://suttacentral.net/sn22.59/en/bodhi)** — SuttaCentral；Bhikkhu Bodhi 译（传统文本） · 无我传统论证 · `SRC-442`
+- **[Mind in Indian Buddhist Philosophy](https://plato.stanford.edu/archives/spr2011/entries/mind-indian-buddhism/)** — Christian Coseru；Stanford Encyclopedia of Philosophy（2010） · 无我哲学与个人外推 · `SRC-443`
+- **[Cūḷasuññata Sutta (MN 121)](https://suttacentral.net/mn121/en/sujato)** — SuttaCentral；Bhikkhu Sujato 译（传统文本） · 空性早期文本语境 · `SRC-445`
+- **[Nāgārjuna](https://plato.stanford.edu/entries/nagarjuna/)** — Jan Westerhoff；Stanford Encyclopedia of Philosophy（2026） · 空性与虚无主义边界 · `SRC-444`
+- **[What Is Buddhist Enlightenment?](https://academic.oup.com/book/4345)** — Dale S. Wright（2016） · 开悟语义与认证边界 · `SRC-446`
+- **[Nibbedhika Sutta (AN 6.63)](https://suttacentral.net/an6.63/en/sujato)** — SuttaCentral；Bhikkhu Sujato 译（传统文本） · 业力传统定义 · `SRC-447`
+- **[Karma](https://academic.oup.com/edited-volume/28081/chapter-abstract/212107445)** — Peter Harvey（2018） · 业力伦理与归责边界 · `SRC-448`
+- **[The Forerunner of All Things](https://academic.oup.com/book/3903)** — Maria Heim（2013） · 业力思想史边界 · `SRC-449`
+- **[Movement-Based Embodied Contemplative Practices](https://www.frontiersin.org/journals/human-neuroscience/articles/10.3389/fnhum.2014.00205/full)** — Schmalzl、Crane-Godreau、Payne（2014） · 动态练习分类边界 · `SRC-457`
+- **[Satipaṭṭhāna Sutta (MN 10)](https://suttacentral.net/mn10/en/sujato)** — SuttaCentral；Bhikkhu Sujato 译（传统文本） · 静态与动态传统语境 · `SRC-458`
+- **[Catechism: Meditation and Contemplative Prayer](https://www.vatican.va/content/catechism/en/part_four/section_one/chapter_three/article_1/ii_meditation.html)** — The Holy See（教理持续发布） · 基督教沉思与祈祷语境 · `SRC-061`
+- **[Emotion-Focused Therapy](https://onlinelibrary.wiley.com/doi/10.1002/cpp.388)** — Leslie S. Greenberg（2004） · 原发／继发情绪定义边界 · `SRC-307`
+- **[How to Handle Anxiety](https://pubmed.ncbi.nlm.nih.gov/19281966/)** — Hofmann、Heering、Sawyer、Asnaani（2009） · 接纳比较与任务外推 · `SRC-294`
+- **[Knowing What You're Feeling and Knowing What to Do About It](https://doi.org/10.1080/02699930143000239)** — Barrett、Gross、Christensen、Benvenuto（2001） · 情绪粒度关联边界 · `SRC-296`
+- **[Paradoxical Effects of Thought Suppression](https://pubmed.ncbi.nlm.nih.gov/3612492/)** — Wegner、Schneider、Carter、White（1987） · 念头压制与回避外推 · `SRC-299`
+- **[Feeling Bad About Being Sad](https://pubmed.ncbi.nlm.nih.gov/21787076/)** — Bastian 等（2012） · 强迫积极与二次评价 · `SRC-341`
+- **[The Psychological Health Benefits of Accepting Negative Emotions and Thoughts](https://pubmed.ncbi.nlm.nih.gov/28703602/)** — Ford、Lam、John、Mauss（2018） · 接纳关联与因果边界 · `SRC-342`
+- **[Rumination and Social Problem-Solving in Depression](https://pubmed.ncbi.nlm.nih.gov/12375726/)** — Watkins、Baracaia（2002） · 反刍与问题解决边界 · `SRC-292`
+- **[The Social Consequences of Expressive Suppression](https://pubmed.ncbi.nlm.nih.gov/12899316/)** — Butler 等（2003） · 关系互动与表达边界 · `SRC-301`
+- **[Relationship Status and Perceived Support in the Social Regulation of Neural Responses to Threat](https://pubmed.ncbi.nlm.nih.gov/28985422/)** — Coan 等（2017） · 共同调节与接触外推 · `SRC-300`
+- **[Sensory Processing Sensitivity in the Context of Environmental Sensitivity](https://pubmed.ncbi.nlm.nih.gov/30639671/)** — Greven 等（2019） · 刺激敏感定义与诊断边界 · `SRC-338`
+- **[Self-Compassion Increases Self-Improvement Motivation](https://pubmed.ncbi.nlm.nih.gov/22645164/)** — Breines、Chen（2012） · 自我批评与改进动机 · `SRC-331`
+- **[Self-Compassion-Related Interventions for Reducing Self-Criticism](https://pubmed.ncbi.nlm.nih.gov/33749936/)** — Wakelin、Perman、Simonds（2022） · 自我批评干预效果边界 · `SRC-332`
+- **[The Relationship Between Perfectionism and Psychopathology](https://pubmed.ncbi.nlm.nih.gov/28026869/)** — Limburg 等（2017） · 完美主义维度与相关边界 · `SRC-339`
+- **[Perfectionism and Symptoms of Depression, Anxiety and Obsessive-Compulsive Disorder](https://pubmed.ncbi.nlm.nih.gov/37955236/)** — Smith 等（2024） · 完美主义担忧与临床外推 · `SRC-340`
+- **[The Development and Initial Validation of the Cognitive Fusion Questionnaire](https://pubmed.ncbi.nlm.nih.gov/24411117/)** — Gillanders 等（2014） · 认知融合操作化边界 · `SRC-350`
+- **[The Evolution of the Cognitive Model of Depression and Its Neurobiological Correlates](https://pubmed.ncbi.nlm.nih.gov/18628348/)** — Aaron T. Beck（2008） · 念头核对与临床模型边界 · `SRC-352`
+- **[Thought Suppression](https://pubmed.ncbi.nlm.nih.gov/10751965/)** — Wenzlaff、Wegner（2000） · 念头压制外推边界 · `SRC-353`
+- **[Situational Strategies for Self-Control](https://pmc.ncbi.nlm.nih.gov/articles/PMC4736542/)** — Duckworth、Gendler、Gross（2016） · 自控策略与情境边界 · `SRC-363`
+- **[Self-Control as Value-Based Choice](https://pmc.ncbi.nlm.nih.gov/articles/PMC5765996/)** — Berkman、Hutcherson、Livingston、Kahn（2017） · 自控价值模型边界 · `SRC-364`
+- **[Fundamental Components of Attention](https://pubmed.ncbi.nlm.nih.gov/17417935/)** — Eric I. Knudsen（2007） · 注意功能概念边界 · `SRC-343`
+- **[Mental Training Affects Distribution of Limited Brain Resources](https://pmc.ncbi.nlm.nih.gov/articles/PMC1868961/)** — Slagter 等（2007） · 选择性注意任务与训练外推 · `SRC-349`
+- **[The Cognitive Neuroscience of Sustained Attention](https://pubmed.ncbi.nlm.nih.gov/11336780/)** — Sarter、Givens、Bruno（2001） · 持续注意定义与外推边界 · `SRC-348`
+- **[Distraction and Mind-Wandering Under Load](https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2013.00283/full)** — Sophie Forster（2013） · 分心类型与负荷边界 · `SRC-344`
+- **[Task Switching](https://pubmed.ncbi.nlm.nih.gov/12639695/)** — Stephen Monsell（2003） · 任务切换与日常外推 · `SRC-345`
+- **[Automaticity: A Theoretical and Conceptual Analysis](https://pubmed.ncbi.nlm.nih.gov/16536645/)** — Moors、De Houwer（2006） · 自动性概念边界 · `SRC-346`
+- **[Narrative Identity](https://doi.org/10.1177/0963721413475622)** — McAdams、McLean（2013） · 自我叙事定义与文化边界 · `SRC-351`
+- **[Self-Referential Processing in Our Brain](https://pubmed.ncbi.nlm.nih.gov/16466680/)** — Northoff 等（2006） · 自我相关加工与脑成像边界 · `SRC-354`
+- **[Information Overload in the Information Age](https://link.springer.com/article/10.1007/s40685-018-0069-z)** — Roetzel（2019） · 信息过载概念边界 · `SRC-408`
+- **[Why Is It So Hard to Do My Work?](https://doi.org/10.1016/j.obhdp.2009.04.002)** — Sophie Leroy（2009） · 注意残留原始证据 · `SRC-409`
+- **[Tasks Interrupted](https://doi.org/10.1287/orsc.2017.1184)** — Leroy、Glomb（2018） · 注意残留与接续计划边界 · `SRC-410`
+- **[Is Mindfulness Buddhist? (And Why It Matters)](https://pubmed.ncbi.nlm.nih.gov/25361692/)** — Robert H. Sharf（2015） · 现代正念历史与传统边界 · `SRC-412`
+- **[Satipaṭṭhānasutta—Middle Discourses 10](https://suttacentral.net/mn10/en/sujato)** — Bhikkhu Sujato 英译／SuttaCentral（当前译文） · 佛教传统一手语境 · `SRC-414`
+- **[Buddhist Meditation Traditions in Tibet](https://doi.org/10.4324/9781003168966-8)** — Sarah Shaw（2024） · 藏传冥想传统范围 · `SRC-415`
+- **[Deity Practice in the FPMT](https://doi.org/10.1080/14755610.2019.1627376)** — Glenys Eddy（2019） · 本尊实践语境边界 · `SRC-416`
+- **[Yoga Sutras of Patanjali](https://iep.utm.edu/yoga/)** — Edwin Bryant／Internet Encyclopedia of Philosophy（当前条目） · 古典瑜伽传统语境 · `SRC-417`
+- **[Bhakti](https://www.saet.ac.uk/Hinduism/Bhakti)** — Ankur Barua／St Andrews Encyclopaedia of Theology（2024） · 奉爱传统语境 · `SRC-418`
+- **[Catechism of the Catholic Church: II. Meditation](https://www.vatican.va/content/catechism/en/part_four/section_one/chapter_three/article_1/ii_meditation.html)** — 天主教会（1992） · 基督教默想官方语境 · `SRC-419`
+- **[Verbum Domini](https://www.vatican.va/content/benedict-xvi/en/apost_exhortations/documents/hf_ben-xvi_exh_20100930_verbum-domini.html)** — 教宗本笃十六世（2010） · 经文默想与行动语境 · `SRC-420`
+- **[Some Reflections on the Origins of MBSR](https://www.tandfonline.com/doi/full/10.1080/14639947.2011.564844)** — Jon Kabat-Zinn（2011） · MBSR 世俗化一手回顾 · `SRC-421`
+- **[The Pervasive Problem With Placebos in Psychology](https://pubmed.ncbi.nlm.nih.gov/26173122/)** — Boot、Simons、Stothart、Stutts（2013） · 主动对照与组件归因边界 · `SRC-403`

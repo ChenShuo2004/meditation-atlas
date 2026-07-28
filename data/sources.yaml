@@ -1,0 +1,2120 @@
+- id: PUB-491
+  source_refs:
+    - SRC-491
+  title: "Meditation and Mindfulness: Effectiveness and Safety"
+  creator: 美国国家补充与整合健康中心（NCCIH）
+  date: 2022-06（页面持续更新）
+  source_type: 机构研究与安全综合
+  url: https://www.nccih.nih.gov/health/meditation-and-mindfulness-effectiveness-and-safety
+  evidence_role: 效果总览与医疗边界
+  citation: 汇总多类冥想与正念项目的健康研究，并明确研究异质、质量限制、安全研究不足，以及不能用练习替代常规医疗。
+- id: PUB-323
+  source_refs:
+    - SRC-323
+  title: Meditation Programs for Psychological Stress and Well-being
+  creator: Goyal 等
+  date: "2014"
+  source_type: 系统综述与元分析
+  url: https://pmc.ncbi.nlm.nih.gov/articles/PMC4142584/
+  evidence_role: 效果综合与平均效应边界
+  citation: 纳入 47 项主动对照试验；部分正念项目对焦虑、抑郁和疼痛有有限证据，但不支持冥想普遍优于所有主动治疗。
+- id: PUB-313
+  source_refs:
+    - SRC-313
+  title: "Mind the Hype: A Critical Evaluation and Prescriptive Agenda for Research on Mindfulness and Meditation"
+  creator: Van Dam 等
+  date: "2018"
+  source_type: 跨学科批判性综述
+  url: https://pubmed.ncbi.nlm.nih.gov/29016274/
+  evidence_role: 冥想研究方法边界
+  citation: 系统讨论概念混用、测量、主动对照、干预成分和不良体验报告不足；用于限制研究外推，不等于否定所有练习效果。
+- id: PUB-315
+  source_refs:
+    - SRC-315
+  title: A Randomized Controlled Trial of Mindfulness Meditation Versus Relaxation Training
+  creator: Jain 等
+  date: "2007"
+  source_type: 随机对照试验
+  url: https://pubmed.ncbi.nlm.nih.gov/17291166/
+  evidence_role: 短期状态变化与比较条件
+  citation: 比较一个月正念、身体放松和对照条件；部分短期指标变化不能外推为正念普遍优于放松或产生长期特质改变。
+- id: PUB-369
+  source_refs:
+    - SRC-369
+  title: "From a State to a Trait: Trajectories of State Mindfulness in Meditation During Intervention Predict Changes in Trait Mindfulness"
+  creator: Kiken 等
+  date: "2015"
+  source_type: 干预内纵向研究
+  url: https://pmc.ncbi.nlm.nih.gov/articles/PMC4404745/
+  evidence_role: 状态—特质时间尺度
+  citation: 八周内状态正念自报轨迹与前后特质正念变化相关；两者均为自报且轨迹未随机分配，不能证明短时状态会单向累积成稳定特质。
+- id: PUB-511
+  source_refs:
+    - SRC-511
+  title: "The STROBE Statement: Guidelines for Reporting Observational Studies"
+  creator: von Elm 等；STROBE Initiative
+  date: "2007"
+  source_type: 观察研究报告规范
+  url: https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.0040296
+  evidence_role: 观察研究与因果边界
+  citation: 帮助核对横断、队列和病例对照研究的人群、变量、混杂与偏倚；报告透明不等于设计质量或因果强度已经成立。
+- id: PUB-509
+  source_refs:
+    - SRC-509
+  title: "CONSORT 2025 Statement: Updated Guideline for Reporting Randomised Trials"
+  creator: Hopewell 等；CONSORT Group
+  date: "2025"
+  source_type: 随机试验报告规范
+  url: https://pmc.ncbi.nlm.nih.gov/articles/PMC11995449/
+  evidence_role: 随机试验阅读框架
+  citation: 规定随机、盲法、结局、参与者流程、伤害和方案偏离等最低报告项目；它是透明报告指南，不是研究质量认证。
+- id: PUB-492
+  source_refs:
+    - SRC-492
+  title: Mindfulness-Based Stress Reduction vs Escitalopram for the Treatment of Adults With Anxiety Disorders
+  creator: Hoge 等
+  date: "2022"
+  source_type: 随机非劣效临床试验
+  url: https://pmc.ncbi.nlm.nih.gov/articles/PMC9647561/
+  evidence_role: 具体临床比较与治疗边界
+  citation: 在筛选后的焦虑障碍成人和完整八周专业课程中比较 MBSR 与艾司西酞普兰；不能外推一次练习、所有焦虑者或个人停药决定。
+- id: PUB-502
+  source_refs:
+    - SRC-502
+  title: Absence of Structural Brain Changes From Mindfulness-Based Stress Reduction
+  creator: Kral 等
+  date: "2022"
+  source_type: 两项三臂随机试验合并分析
+  url: https://pmc.ncbi.nlm.nih.gov/articles/PMC9122316/
+  evidence_role: 主动对照与复现案例
+  citation: MBSR、匹配健康促进主动对照与候补组比较未发现 MBSR 特异的普遍脑结构变化；限制“八周必然改变脑结构”的说法。
+- id: PUB-368
+  source_refs:
+    - SRC-368
+  title: Conceptual and Methodological Issues in Research on Mindfulness and Meditation
+  creator: Davidson、Kaszniak
+  date: "2015"
+  source_type: 方法学综述
+  url: https://pubmed.ncbi.nlm.nih.gov/26436310/
+  evidence_role: 研究设计与解释边界
+  citation: 讨论无法完全双盲、练习描述、对照设计、自报和分析等问题；用于限制从前后差异推断独特成分与因果机制。
+- id: PUB-510
+  source_refs:
+    - SRC-510
+  title: The PRISMA 2020 Statement
+  creator: Page 等；PRISMA Group
+  date: "2021"
+  source_type: 系统综述报告规范
+  url: https://pmc.ncbi.nlm.nih.gov/articles/PMC8005924/
+  evidence_role: 系统综述阅读框架
+  citation: 要求透明报告检索、筛选、纳入、综合与偏倚处理；PRISMA 不是方法质量评分，也不能修复原研究的偏倚与异质性。
+- id: PUB-512
+  source_refs:
+    - SRC-512
+  title: Reporting of Positive Results in Randomized Controlled Trials of Mindfulness-Based Mental Health Interventions
+  creator: Coronado-Montoya 等
+  date: "2016"
+  source_type: 系统核查
+  url: https://pmc.ncbi.nlm.nih.gov/articles/PMC4825994/
+  evidence_role: 发表偏倚与选择性报告
+  citation: 核查正念心理健康随机试验中的正向摘要与未发表注册研究，提示选择性报告风险；不能据此判定每项正向发现都是错误的。
+- id: PUB-513
+  source_refs:
+    - SRC-513
+  title: Towards an Individual Differences Perspective in Mindfulness Training Research
+  creator: Tang、Braver
+  date: "2020"
+  source_type: 理论与实证综述
+  url: https://pmc.ncbi.nlm.nih.gov/articles/PMC7248295/
+  evidence_role: 个体反应异质性
+  citation: 说明正念训练反应的个体差异仍缺系统研究；可把差异列为研究问题，不能据此形成按人格分配练习的处方。
+- id: PUB-514
+  source_refs:
+    - SRC-514
+  title: Baseline Trait Mindfulness Moderates the Efficacy of Mindfulness Interventions and Active Controls
+  creator: Sieder 等
+  date: "2024"
+  source_type: 177 项随机试验元分析
+  url: https://pubmed.ncbi.nlm.nih.gov/38721822/
+  evidence_role: 调节信号与个人外推边界
+  citation: 较低基线特质正念与较大变化之间存在小幅关联，但主动干预也出现相近模式，不能把量表分数用作个人选法规则。
+- id: PUB-290
+  source_refs:
+    - SRC-290
+  title: "Psychological First Aid: Guide for Field Workers"
+  creator: WHO、War Trauma Foundation、World Vision International
+  date: "2011"
+  source_type: 机构危机支持指南
+  url: https://www.who.int/publications-detail-redirect/9789241548205
+  evidence_role: 现实安全优先
+  citation: 把防止进一步伤害、满足基本需要和动员社会支持放在危机支持核心；它不是冥想试验、个人诊断或本地急救流程。
+- id: PUB-459
+  source_refs:
+    - SRC-459
+  title: "Mindfulness-Based Stress Reduction (MBSR): Exercises"
+  creator: Guy's and St Thomas' NHS Foundation Trust
+  date: 持续更新
+  source_type: 机构练习指导
+  url: https://www.guysandstthomas.nhs.uk/health-information/mindfulness-based-stress-reduction-mbsr/mbsr-exercises
+  evidence_role: 练习调整示例
+  citation: 提供呼吸、身体接触、坐姿、行走和动作调整说明；机构教学能支持调整选项，但不等于单项动作疗效试验。
+- id: PUB-515
+  source_refs:
+    - SRC-515
+  title: Adverse Events in Meditation Practices and Meditation-Based Therapies
+  creator: Farias 等
+  date: "2020"
+  source_type: 系统综述
+  url: https://pubmed.ncbi.nlm.nih.gov/32820538/
+  evidence_role: 不良体验与停止边界
+  citation: 汇总冥想相关不良事件研究，同时显示定义、询问方式和研究设计高度异质；合并比例不能当作个人风险预测。
+- id: PUB-516
+  source_refs:
+    - SRC-516
+  title: Practical Guide for Implementing a Trauma-Informed Approach
+  creator: 美国物质滥用与精神健康服务管理局（SAMHSA）
+  date: "2023"
+  source_type: 机构实施指南
+  url: https://library.samhsa.gov/sites/default/files/pep23-06-05-005.pdf
+  evidence_role: 选择权与创伤知情边界
+  citation: 提出安全、透明、选择、协作与文化背景等创伤知情原则；它是通用服务框架，不是冥想疗效试验或创伤治疗手册。
+- id: PUB-521
+  source_refs:
+    - SRC-521
+  title: Help for Mental Illnesses
+  creator: 美国国家心理健康研究所（NIMH）
+  date: 持续更新
+  source_type: 官方求助入口说明
+  url: https://www.nimh.nih.gov/health/find-help
+  evidence_role: 专业帮助入口
+  citation: 说明基层医疗、心理治疗、精神科和紧急支持等入口，以及选择专业人员时可以询问的问题；美国服务目录不能替代其他地区系统。
+- id: PUB-525
+  source_refs:
+    - SRC-525
+  title: Know the Science
+  creator: 美国国家补充与整合健康中心（NCCIH）
+  date: 持续更新
+  source_type: 科学素养资源
+  url: https://www.nccih.nih.gov/health/know-science
+  evidence_role: 来源与主张辨认
+  citation: 提供理解研究、健康新闻和网络信息的工具，并提醒辨认轶事伪装成证据和过度健康承诺；不能替具体疗效主张完成评价。
+- id: PUB-527
+  source_refs:
+    - SRC-527
+  title: "Cochrane Handbook, Chapter 14: Grading the Certainty of the Evidence"
+  creator: Cochrane
+  date: 2025-05 更新
+  source_type: 证据确定性方法指导
+  url: https://www.cochrane.org/authors/handbooks-and-manuals/handbook/current/chapter-14
+  evidence_role: 证据确定性框架
+  citation: 按具体结局检查偏倚、不一致、间接性、不精确和发表偏倚；正式 GRADE 评价需要透明方法，不能只凭来源标签自行赋分。
+- id: PUB-273
+  source_refs:
+    - SRC-273
+  title: Mindfulness Training Modifies Subsystems of Attention
+  creator: Jha、Krompinger、Baime
+  date: "2007"
+  source_type: 原始行为研究
+  url: https://pubmed.ncbi.nlm.nih.gov/17672382/
+  evidence_role: 注意训练与研究边界
+  citation: 小样本比较 MBSR、密集闭关与未训练组的注意子系统表现；组别经验与训练强度不同，不能推出冥想全面提升注意力。
+- id: PUB-274
+  source_refs:
+    - SRC-274
+  title: The Lights Are On but No One's Home
+  creator: Smallwood、McSpadden、Schooler
+  date: "2007"
+  source_type: 原始实验
+  url: https://pubmed.ncbi.nlm.nih.gov/17874601/
+  evidence_role: 走神与元觉察
+  citation: 区分有觉察与无觉察的走神状态；分类依赖事后自报，不能把所有走神视为有害。
+- id: PUB-275
+  source_refs:
+    - SRC-275
+  title: Mind Wandering and Attention During Focused Meditation
+  creator: Hasenkamp 等
+  date: "2012"
+  source_type: 原始 fMRI 研究
+  url: https://pubmed.ncbi.nlm.nih.gov/21782031/
+  evidence_role: 专注练习循环
+  citation: 以主观按键和建模分析走神、发现、切换与维持阶段；不能证明普遍固定时序或一一对应脑区。
+- id: PUB-276
+  source_refs:
+    - SRC-276
+  title: "Emotion Drives Attention: Detecting the Snake in the Grass"
+  creator: Öhman、Flykt、Esteves
+  date: "2001"
+  source_type: 原始视觉搜索实验
+  url: https://pubmed.ncbi.nlm.nih.gov/11561921/
+  evidence_role: 威胁线索与注意捕获
+  citation: 特定威胁刺激在实验任务中获得注意优先；不能外推所有情绪、日常场景或个人诊断。
+- id: PUB-277
+  source_refs:
+    - SRC-277
+  title: Patterns of Cognitive Appraisal in Emotion
+  creator: Smith、Ellsworth
+  date: "1985"
+  source_type: 原始回忆与评分研究
+  url: https://doi.org/10.1037/0022-3514.48.4.813
+  evidence_role: 情绪评价结构
+  citation: 小样本回忆研究得到可区分情绪报告的评价维度；不能确立普遍维度、固定时序或因果。
+- id: PUB-278
+  source_refs:
+    - SRC-278
+  title: Angry, Disgusted, or Afraid?
+  creator: Aviezer 等
+  date: "2008"
+  source_type: 原始知觉实验
+  url: https://pubmed.ncbi.nlm.nih.gov/18727789/
+  evidence_role: 情境与情绪知觉
+  citation: 相同面部构型在不同情境中得到不同判断，支持情绪知觉受背景影响；不证明个人情绪生成的完整机制。
+- id: PUB-279
+  source_refs:
+    - SRC-279
+  title: The Tie That Binds?
+  creator: Mauss、Levenson、McCarter、Wilhelm、Gross
+  date: "2005"
+  source_type: 原始情绪诱发研究
+  url: https://pubmed.ncbi.nlm.nih.gov/15982083/
+  evidence_role: 情绪组件与身体边界
+  citation: 主观体验、行为与外周生理只呈部分同步；不能用单一生理指标读取完整情绪。
+- id: PUB-280
+  source_refs:
+    - SRC-280
+  title: Bodily Maps of Emotions
+  creator: Nummenmaa 等
+  date: "2014"
+  source_type: 原始身体感觉研究
+  url: https://pmc.ncbi.nlm.nih.gov/articles/PMC3896150/
+  evidence_role: 主观身体感觉
+  citation: 参与者自报不同情绪的身体感觉区域；测量不是直接生理记录，不能作为情绪或疾病诊断图谱。
+- id: PUB-281
+  source_refs:
+    - SRC-281
+  title: Cognitive Self-Statements in Depression
+  creator: Hollon、Kendall
+  date: "1980"
+  source_type: 原始量表开发研究
+  url: https://doi.org/10.1007/BF01178214
+  evidence_role: 自动思维测量
+  citation: 操作化特定负面自动思维；不能定义所有自动思维、证明因果或独立完成临床诊断。
+- id: PUB-282
+  source_refs:
+    - SRC-282
+  title: Relations Among Emotion, Appraisal, and Emotional Action Readiness
+  creator: Frijda、Kuipers、ter Schure
+  date: "1989"
+  source_type: 原始回忆与问卷研究
+  url: https://doi.org/10.1037/0022-3514.57.2.212
+  evidence_role: 行动准备与情绪
+  citation: 评价与行动准备对情绪区分有部分独立贡献；不证明固定冲动、普遍时序或实际行为。
+- id: PUB-283
+  source_refs:
+    - SRC-283
+  title: Phenomenology, Behaviors, and Goals Differentiate Discrete Emotions
+  creator: Roseman、Wiest、Swartz
+  date: "1994"
+  source_type: 原始回忆研究
+  url: https://doi.org/10.1037/0022-3514.67.2.206
+  evidence_role: 情绪组件区分
+  citation: 分别询问感受、想法、想做、实际行为与目标；回忆与预设标签不能建立固定个人模板。
+- id: PUB-284
+  source_refs:
+    - SRC-284
+  title: Emotional Suppression
+  creator: Gross、Levenson
+  date: "1993"
+  source_type: 原始实验
+  url: https://doi.org/10.1037/0022-3514.64.6.970
+  evidence_role: 表达、体验与生理区分
+  citation: 抑制指令减少外显行为却未减少主观体验；不证明所有抑制的长期后果或表达永远更好。
+- id: PUB-285
+  source_refs:
+    - SRC-285
+  title: Habits in Everyday Life
+  creator: Wood、Quinn、Kashy
+  date: "2002"
+  source_type: 原始日记研究
+  url: https://doi.org/10.1037/0022-3514.83.6.1281
+  evidence_role: 情境与习惯自动性
+  citation: 稳定情境中的习惯行为较少依赖当下有意识引导；不直接证明奖励机制、神经回路或成瘾。
+- id: PUB-287
+  source_refs:
+    - SRC-287
+  title: Does Venting Anger Feed or Extinguish the Flame?
+  creator: Bushman
+  date: "2002"
+  source_type: 原始实验
+  url: https://doi.org/10.1177/0146167202289002
+  evidence_role: 反刍与愤怒升级
+  citation: 特定反刍宣泄任务后愤怒与攻击回应更高；不证明所有表达、运动或社会分享都会升级情绪。
+- id: PUB-288
+  source_refs:
+    - SRC-288
+  title: Effects of Responses to Depression on Depressive Affect
+  creator: Morrow、Nolen-Hoeksema
+  date: "1990"
+  source_type: 原始情绪诱发实验
+  url: https://pubmed.ncbi.nlm.nih.gov/2324941/
+  evidence_role: 反刍与情绪持续
+  citation: 短时实验中反刍越高，诱发低落改善越少；不证明所有反思有害、分心普遍最佳或冥想能治疗抑郁。
+- id: PUB-289
+  source_refs:
+    - SRC-289
+  title: Mindfulness as a Means of Reducing Aggressive Behavior
+  creator: Heppner 等
+  date: "2008"
+  source_type: 相关与社会拒绝实验
+  url: https://pubmed.ncbi.nlm.nih.gov/18464229/
+  evidence_role: 暂停与行动选择线索
+  citation: 短时正念引导后社会拒绝情境中的攻击回应较少；未单独检验暂停时长，不能外推所有冲突。
+- id: PUB-293
+  source_refs:
+    - SRC-293
+  title: Doing What Matters in Times of Stress
+  creator: 世界卫生组织（WHO）
+  date: "2020"
+  source_type: 机构压力自助指南
+  url: https://www.who.int/publications/i/item/9789240003927
+  evidence_role: 接纳与现实行动边界
+  citation: 把可改变处境、容纳不可改变痛苦与价值行动分开；不是诊断、冥想单项试验或所有处境的固定算法。
+- id: PUB-297
+  source_refs:
+    - SRC-297
+  title: Antecedent- and Response-Focused Emotion Regulation
+  creator: Gross
+  date: "1998"
+  source_type: 原始随机实验
+  url: https://pubmed.ncbi.nlm.nih.gov/9457784/
+  evidence_role: 调节策略组件
+  citation: 短时任务中重评与表达抑制产生不同体验、表达和生理结果；不能证明某一策略普遍最佳。
+- id: PUB-298
+  source_refs:
+    - SRC-298
+  title: Emotion-Regulation Choice
+  creator: Sheppes、Scheibe、Suri、Gross
+  date: "2011"
+  source_type: 原始策略选择实验
+  url: https://pubmed.ncbi.nlm.nih.gov/21960251/
+  evidence_role: 状态与策略选择
+  citation: 情绪强度与分心、重评选择模式相关；实验偏好不等于效果，也不能形成普遍个人处方。
+- id: PUB-306
+  source_refs:
+    - SRC-306
+  title: Event Processing and the Duration of Emotional Experience
+  creator: Verduyn、Van Mechelen、Tuerlinckx
+  date: "2011"
+  source_type: 五日日记研究
+  url: https://pubmed.ncbi.nlm.nih.gov/21401221/
+  evidence_role: 情绪持续时间
+  citation: 事件相关思考和社会分享与部分情绪持续时间相关；自报关联不能证明因果或分享有害。
+- id: PUB-310
+  source_refs:
+    - SRC-310
+  title: What Is Meditation?
+  creator: Matko、Sedlmeier
+  date: "2019"
+  source_type: 冥想技术经验分类研究
+  url: https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2019.02276/full
+  evidence_role: 冥想实践家族
+  citation: 练习者相似度判断得到多个技术聚类，支持冥想内部多样；样本与方法限制使其不能成为最终分类。
+- id: PUB-311
+  source_refs:
+    - SRC-311
+  title: Attention Regulation and Monitoring in Meditation
+  creator: Lutz、Slagter、Dunne、Davidson
+  date: "2008"
+  source_type: 理论综述
+  url: https://pmc.ncbi.nlm.nih.gov/articles/PMC2693206/
+  evidence_role: 专注与开放监测
+  citation: 区分专注与开放监测两种常研究方式；不囊括全部冥想实践，也不证明长期效果。
+- id: PUB-312
+  source_refs:
+    - SRC-312
+  title: "Mindfulness: A Proposed Operational Definition"
+  creator: Bishop 等
+  date: "2004"
+  source_type: 专家共识与操作定义提案
+  url: https://doi.org/10.1093/clipsy.bph077
+  evidence_role: 正念工作定义
+  citation: 提出注意调节与开放接纳取向两个组件；不是跨传统最终定义、疗效研究或个人测量结论。
+- id: PUB-314
+  source_refs:
+    - SRC-314
+  title: Reconstructing and Deconstructing the Self
+  creator: Dahl、Lutz、Davidson
+  date: "2015"
+  source_type: 理论分类综述
+  url: https://pubmed.ncbi.nlm.nih.gov/26231761/
+  evidence_role: 冥想分类补充
+  citation: 提出注意、建构和解构三类机制框架；类别存在争论，不能认定所有传统目标、机制或效果。
+- id: PUB-324
+  source_refs:
+    - SRC-324
+  title: Awakening Is Not a Metaphor
+  creator: Britton、Lindahl、Cahn、Davis、Goldman
+  date: "2014"
+  source_type: 跨学科综述
+  url: https://pmc.ncbi.nlm.nih.gov/articles/PMC4054695/
+  evidence_role: 传统与现代目标语境
+  citation: 比较佛教觉醒目标与现代放松、健康叙事；异质材料不能证明统一机制或所有传统共识。
+- id: PUB-385
+  source_refs:
+    - SRC-385
+  title: Autonomic Dysregulation and the Window of Tolerance Model
+  creator: Corrigan、Fisher、Nutt
+  date: "2011"
+  source_type: 理论综述
+  url: https://pubmed.ncbi.nlm.nih.gov/20093318/
+  evidence_role: 激活状态与模型边界
+  citation: 以耐受窗组织复杂创伤后的激活和行为；不等于统一可测阈值，也不能外推所有日常压力。
+- id: PUB-487
+  source_refs:
+    - SRC-487
+  title: Home Practice in MBCT and MBSR
+  creator: Parsons 等
+  date: "2017"
+  source_type: 系统综述与元分析
+  url: https://pmc.ncbi.nlm.nih.gov/articles/PMC5501725/
+  evidence_role: 练习剂量边界
+  citation: 家庭练习量与结果仅有小幅相关且研究异质、自报；不能给个人设定普遍最低分钟数或频率。
+- id: PUB-488
+  source_refs:
+    - SRC-488
+  title: Excessive Daytime Sleepiness (Hypersomnia)
+  creator: 英国 NHS
+  date: 2023-06-23 最近审阅
+  source_type: 官方公众健康说明
+  url: https://www.nhs.uk/conditions/excessive-daytime-sleepiness-hypersomnia/
+  evidence_role: 困倦与就医边界
+  citation: 建议白天反复入睡或生活受影响时就医，并列出多类可能原因；不能用于个体诊断。
+- id: PUB-336
+  source_refs:
+    - SRC-336
+  title: Toward a Psychobiology of Posttraumatic Self-Dysregulation
+  creator: Lanius 等
+  date: "2006"
+  source_type: 创伤后调节理论综述
+  url: https://pubmed.ncbi.nlm.nih.gov/16891566/
+  evidence_role: 情绪麻木与创伤边界
+  citation: 把重新体验、高唤醒、解离与情绪麻木放入同一调节框架；理论整合不能证明所有麻木来自创伤或用于个人诊断。
+- id: PUB-337
+  source_refs:
+    - SRC-337
+  title: Can Antidepressant Use Be Associated With Emotional Blunting?
+  creator: Marwood 等
+  date: "2023"
+  source_type: 范围综述
+  url: https://pubmed.ncbi.nlm.nih.gov/37184083/
+  evidence_role: 情绪钝化归因边界
+  citation: 情绪钝化可能被报告为抑郁症状或抗抑郁药相关体验，现有研究难分清二者；不能据此自行停药或换药。
+- id: PUB-388
+  source_refs:
+    - SRC-388
+  title: PTSD and DSM-5
+  creator: 美国退伍军人事务部国家 PTSD 中心
+  date: 持续更新
+  source_type: 官方专业诊断边界资料
+  url: https://www.ptsd.va.gov/professional/treat/essentials/dsm5_ptsd.asp
+  evidence_role: 创伤反应与诊断边界
+  citation: 区分创伤暴露、症状簇、持续时间与功能损害；用于诊断边界教育，不替代个人评估。
+- id: PUB-389
+  source_refs:
+    - SRC-389
+  title: Post-Traumatic Stress Disorder
+  creator: 世界卫生组织（WHO）
+  date: 2024-05-27
+  source_type: 官方健康事实页
+  url: https://www.who.int/news-room/fact-sheets/detail/post-traumatic-stress-disorder
+  evidence_role: 创伤反应与求助边界
+  citation: 潜在创伤后的痛苦很常见但不等于 PTSD；机构概览不能用于自我诊断或规定个人恢复时程。
+- id: PUB-390
+  source_refs:
+    - SRC-390
+  title: Resilience to Loss and Potential Trauma
+  creator: Bonanno、Westphal、Mancini
+  date: "2011"
+  source_type: 潜在创伤后轨迹综述
+  url: https://pubmed.ncbi.nlm.nih.gov/21091190/
+  evidence_role: 创伤后异质轨迹
+  citation: 潜在创伤后存在稳定、恢复、延迟和持续困难等多种群体轨迹；不能要求个人迅速恢复或否认迟发反应。
+- id: PUB-391
+  source_refs:
+    - SRC-391
+  title: Are There Two Qualitatively Distinct Forms of Dissociation?
+  creator: Holmes 等
+  date: "2005"
+  source_type: 解离概念与证据综述
+  url: https://pubmed.ncbi.nlm.nih.gov/15596078/
+  evidence_role: 解离概念辨析
+  citation: 提出脱离与分隔两类现象，帮助区分现实感、记忆与控制；不是完整诊断系统或个人分类器。
+- id: PUB-392
+  source_refs:
+    - SRC-392
+  title: What Are Dissociative Disorders?
+  creator: 美国精神医学学会（APA）
+  date: 持续更新
+  source_type: 专业机构患者教育资料
+  url: https://www.psychiatry.org/patients-families/dissociative-disorders/what-are-dissociative-disorders
+  evidence_role: 解离定义与求助边界
+  citation: 说明解离可涉及记忆、身份、情绪、知觉、行为与自我，并可能损害功能；不能从单次体验反推创伤或完成诊断。
+- id: PUB-435
+  source_refs:
+    - SRC-435
+  title: Effectiveness of Traditional Meditation Retreats
+  creator: Khoury 等
+  date: "2017"
+  source_type: 系统综述与元分析
+  url: https://doi.org/10.1016/j.jpsychores.2016.11.006
+  evidence_role: 闭关效果与外推边界
+  citation: 传统闭关研究报告部分平均改善，但方案异质、自选样本、对照和随访不足；不能推出闭关越长越有效或适合每个人。
+- id: PUB-436
+  source_refs:
+    - SRC-436
+  title: The Varieties of Contemplative Experience
+  creator: Lindahl 等
+  date: "2017"
+  source_type: 目的性样本混合方法研究
+  url: https://pmc.ncbi.nlm.nih.gov/articles/PMC5443484/
+  evidence_role: 困难体验范围与闭关情境
+  citation: 描述密集练习相关困难的范围与影响条件；目的性招募不能估算普通练习者的发生率或证明单一因果。
+- id: PUB-437
+  source_refs:
+    - SRC-437
+  title: Defining and Measuring Meditation-Related Adverse Effects
+  creator: Britton 等
+  date: "2021"
+  source_type: 主动不良影响测量研究
+  url: https://pmc.ncbi.nlm.nih.gov/articles/PMC8845498/
+  evidence_role: 不良影响分层与监测
+  citation: 主动询问体验、持续与功能会改变不良影响估计；单一临床样本不能外推所有课程、闭关或练习者。
+- id: PUB-452
+  source_refs:
+    - SRC-452
+  title: A Phenomenology of Meditation-Induced Light Experiences
+  creator: Lindahl 等
+  date: "2014"
+  source_type: 质性与理论研究
+  url: https://pmc.ncbi.nlm.nih.gov/articles/PMC3879457/
+  evidence_role: 异常体验的描述与解释边界
+  citation: 支持先描述冥想见光经验再比较传统与神经生物学解释；小样本和假说不能认证统一机制或修行等级。
+- id: PUB-454
+  source_refs:
+    - SRC-454
+  title: Meditation-Induced Psychosis
+  creator: Sharma、Mahapatra、Gupta
+  date: 2019／2022
+  source_type: 病例叙述综述
+  url: https://pubmed.ncbi.nlm.nih.gov/31668156/
+  evidence_role: 精神病性状态与伴随条件
+  citation: 病例中常伴随失眠、少食、既往病史、压力或物质使用；选择偏差使其不能估算发生率或证明冥想是唯一原因。
+- id: PUB-455
+  source_refs:
+    - SRC-455
+  title: Schizophrenia
+  creator: 美国国家精神卫生研究所（NIMH）
+  date: 持续更新
+  source_type: 官方健康说明
+  url: https://www.nimh.nih.gov/health/publications/schizophrenia
+  evidence_role: 异常体验的临床求助边界
+  citation: 提供幻觉、妄想、思维混乱、现实检验和功能受损的临床概览；不能据单次冥想体验诊断任何人。
+- id: PUB-465
+  source_refs:
+    - SRC-465
+  title: Coping With Traumatic Stress Reactions
+  creator: 美国退伍军人事务部国家 PTSD 中心
+  date: 持续更新
+  source_type: 官方患者教育资料
+  url: https://www.ptsd.va.gov/gethelp/coping_stress_reactions.asp
+  evidence_role: 现实定向与求助
+  citation: 对闪回建议睁眼、确认时间地点、移动和联系可信任者；应对教育不能诊断个人或替代治疗。
+- id: PUB-489
+  source_refs:
+    - SRC-489
+  title: Shortness of Breath
+  creator: 英国 NHS
+  date: 2024-01-30 最近审阅
+  source_type: 官方公众健康说明
+  url: https://www.nhs.uk/conditions/shortness-of-breath/
+  evidence_role: 呼吸困难急性边界
+  citation: 列出严重喘息、无法说话、胸部紧重、肤色改变和意识混乱等急性警讯；不能判断练习者的个体病因。
+- id: PUB-490
+  source_refs:
+    - SRC-490
+  title: Heart Palpitations
+  creator: 英国 NHS
+  date: 2026-03-17 最近审阅
+  source_type: 官方公众健康说明
+  url: https://www.nhs.uk/conditions/heart-palpitations/
+  evidence_role: 心悸与急性警讯
+  citation: 说明心悸表现、常见相关因素和就医边界；持续心悸伴胸痛、呼吸困难或晕厥感需进入急性处理。
+- id: PUB-517
+  source_refs:
+    - SRC-517
+  title: "Panic Disorder: What You Need to Know"
+  creator: 美国国家精神卫生研究所（NIMH）
+  date: 2025-03
+  source_type: 官方公众健康说明
+  url: https://www.nimh.nih.gov/health/publications/panic-disorder-when-fear-overwhelms
+  evidence_role: 惊恐辨析与治疗边界
+  citation: 区分一次惊恐发作与惊恐障碍，并说明症状、持续担忧、回避及治疗入口；不是冥想研究或个人诊断工具。
+- id: PUB-518
+  source_refs:
+    - SRC-518
+  title: Depressive Disorder (Depression)
+  creator: 世界卫生组织（WHO）
+  date: 2025-08-29
+  source_type: 官方健康事实页
+  url: https://www.who.int/news-room/fact-sheets/detail/depression
+  evidence_role: 严重抑郁与治疗边界
+  citation: 区分抑郁与普通情绪变化，并说明功能影响、治疗与自杀危险时的求助方向；不能用于个人自诊或具体处方。
+- id: PUB-519
+  source_refs:
+    - SRC-519
+  title: Mental Health and Psychosocial Support Platform—Suicide
+  creator: 世界卫生组织东地中海区域办事处
+  date: 持续更新
+  source_type: 官方自杀预防与安全计划资源
+  url: https://www.emro.who.int/mhps/suicide.html
+  evidence_role: 自杀风险与危机安全
+  citation: 说明警示线索、直接询问、即时危险时不独处、减少可用手段和进入紧急支持；不能替代现场风险评估。
+- id: PUB-520
+  source_refs:
+    - SRC-520
+  title: Breathing Exercises in the Treatment of Hyperventilation
+  creator: Cambridge University Hospitals NHS Foundation Trust
+  date: 持续更新
+  source_type: 机构患者教育资料
+  url: https://www.cuh.nhs.uk/patient-information/breathing-exercises-in-the-treatment-of-hyperventilation/
+  evidence_role: 过度呼吸与症状边界
+  citation: 说明过度呼吸与气短、发麻、头晕和不真实感等表现；不能把所有呼吸困难归因于过度呼吸或替代医疗评估。
+- id: PUB-522
+  source_refs:
+    - SRC-522
+  title: "Maranassati Sutta: Mindfulness of Death (AN 6.19)"
+  creator: 巴利《增支部》；Thanissaro Bhikkhu 英译
+  date: 公开译本修订 2013
+  source_type: 传统文本公开译文
+  url: https://www.accesstoinsight.org/tipitaka/an/an06/an06.019.than.html
+  evidence_role: 死亡观传统语境
+  citation: 说明一类早期佛教死随念的对象与目的；单篇经文不能代表全部死亡观，也不能证明现代疗效或个人适用性。
+- id: PUB-526
+  source_refs:
+    - SRC-526
+  title: Reiki
+  creator: 美国国家补充与整合健康中心（NCCIH）
+  date: 2018-12 更新
+  source_type: 官方补充健康方法说明
+  url: https://www.nccih.nih.gov/health/reiki
+  evidence_role: 能量机制与健康主张边界
+  citation: 指出 Reiki 健康用途证据不清且没有科学证据支持所假定能量场；不能据此否定第一人称体验或全部传统意义。
+- id: PUB-291
+  source_refs:
+    - SRC-291
+  title: Worry Impairs the Problem-Solving Process
+  creator: Llera、Newman
+  date: "2020"
+  source_type: 原始担忧诱发实验
+  url: https://pubmed.ncbi.nlm.nih.gov/33129156/
+  evidence_role: 担忧与问题解决边界
+  citation: 特定实验中担忧降低部分方案质量、信心或执行意愿；不能据此否定所有风险准备，也不证明冥想能解决焦虑。
+- id: PUB-325
+  source_refs:
+    - SRC-325
+  title: Anxiety Disorders
+  creator: 美国国家心理健康研究所（NIMH）
+  date: 持续更新
+  source_type: 官方公众健康说明
+  url: https://www.nimh.nih.gov/health/topics/anxiety-disorders
+  evidence_role: 焦虑临床与求助边界
+  citation: 区分偶发焦虑与持续、难以控制并影响生活的焦虑障碍；不能用于个人自诊，也不证明冥想是首选或独立治疗。
+- id: PUB-327
+  source_refs:
+    - SRC-327
+  title: Depression
+  creator: 美国国家心理健康研究所（NIMH）
+  date: 2024-12 更新
+  source_type: 官方公众健康说明
+  url: https://www.nimh.nih.gov/health/publications/depression
+  evidence_role: 低落与抑郁临床边界
+  citation: 区分普通低落与抑郁，并说明症状组合、持续、功能影响和相似身体原因；两周不是等待求助或自行确诊的单一阈值。
+- id: PUB-386
+  source_refs:
+    - SRC-386
+  title: "Freeze for Action: Neurobiological Mechanisms in Animal and Human Freezing"
+  creator: Roelofs
+  date: "2017"
+  source_type: 跨物种机制综述
+  url: https://pmc.ncbi.nlm.nih.gov/articles/PMC5332864/
+  evidence_role: 僵住反应与机制边界
+  citation: 讨论僵住与动作抑制、心率下降、知觉和行动准备；不能把僵住固定成个人类型、普遍创伤证明或单一路径。
+- id: PUB-387
+  source_refs:
+    - SRC-387
+  title: "Fear and the Defense Cascade: Clinical Implications and Management"
+  creator: Kozlowska 等
+  date: "2015"
+  source_type: 跨物种理论与临床综述
+  url: https://pmc.ncbi.nlm.nih.gov/articles/PMC4495877/
+  evidence_role: 威胁防御反应模型
+  citation: 以防御级联组织威胁下的多种反应方向；这是理论模型，不是人人按固定顺序经历的诊断量表。
+- id: PUB-393
+  source_refs:
+    - SRC-393
+  title: "IASP Terminology: Pain"
+  creator: 国际疼痛研究协会（IASP）
+  date: 2020 修订
+  source_type: 国际专业组织术语
+  url: https://www.iasp-pain.org/resources/terminology/
+  evidence_role: 疼痛定义与个人经验边界
+  citation: 把疼痛界定为个人的感觉与情绪经验，并强调疼痛与伤害感受不同、个人报告应被尊重；不能替代具体病因诊断。
+- id: PUB-394
+  source_refs:
+    - SRC-394
+  title: The Revised International Association for the Study of Pain Definition of Pain
+  creator: Raja 等
+  date: "2020"
+  source_type: 国际专家工作组定义修订
+  url: https://pubmed.ncbi.nlm.nih.gov/32694387/
+  evidence_role: 疼痛定义修订
+  citation: 解释疼痛定义修订及六条注释，支持疼痛的多维和个人性质；不判断个人病因、严重度或治疗方案。
+- id: PUB-395
+  source_refs:
+    - SRC-395
+  title: Theoretical Perspectives on the Relation Between Catastrophizing and Pain
+  creator: Sullivan 等
+  date: "2001"
+  source_type: 理论与研究综述
+  url: https://pubmed.ncbi.nlm.nih.gov/11289089/
+  evidence_role: 疼痛评价与因果边界
+  citation: 讨论灾难化与疼痛、困扰之间的关联及多种可能路径；不证明负面想法制造疼痛，也不能用于责怪疼痛者。
+- id: PUB-396
+  source_refs:
+    - SRC-396
+  title: Mindfulness Meditation for Chronic Pain
+  creator: Hilton 等
+  date: "2017"
+  source_type: 系统综述与元分析
+  url: https://pmc.ncbi.nlm.nih.gov/articles/PMC5368208/
+  evidence_role: 慢性疼痛效果与安全边界
+  citation: 慢性疼痛、抑郁症状和生活质量可能有小幅改善，但疼痛证据质量低且安全报告有限；不能承诺消痛或替代医疗。
+- id: PUB-397
+  source_refs:
+    - SRC-397
+  title: Distinguishing Sleepiness and Fatigue
+  creator: Shen、Barbera、Shapiro
+  date: "2006"
+  source_type: 睡眠医学综述
+  url: https://pubmed.ncbi.nlm.nih.gov/16376590/
+  evidence_role: 困倦与疲劳辨析
+  citation: 说明困倦与疲劳相关但不同，主客观测量各自只捕捉部分现象；单一感受或量表不能确定个人病因。
+- id: PUB-398
+  source_refs:
+    - SRC-398
+  title: "Sleep and Emotion Regulation: An Organizing, Integrative Review"
+  creator: Palmer、Alfano
+  date: "2017"
+  source_type: 整合综述
+  url: https://pubmed.ncbi.nlm.nih.gov/26899742/
+  evidence_role: 睡眠与情绪双向关系
+  citation: 睡眠受损与多个情绪过程相关，但研究常难区分情绪产生和调节；不能把任何情绪问题归成单一缺觉结果。
+- id: PUB-399
+  source_refs:
+    - SRC-399
+  title: Drowsy Driving
+  creator: 美国国家公路交通安全管理局（NHTSA）
+  date: 持续更新
+  source_type: 官方交通安全说明
+  url: https://www.nhtsa.gov/risky-driving/drowsy-driving
+  evidence_role: 困倦与驾驶安全
+  citation: 强调困倦驾驶会损害安全，严重缺觉时咖啡不能可靠防止短暂入睡；它不诊断疲劳或睡眠障碍。
+- id: PUB-400
+  source_refs:
+    - SRC-400
+  title: Behavioral and Psychological Treatments for Chronic Insomnia Disorder in Adults
+  creator: 美国睡眠医学学会（AASM）
+  date: "2021"
+  source_type: 临床实践指南
+  url: https://pmc.ncbi.nlm.nih.gov/articles/PMC7853203/
+  evidence_role: 慢性失眠治疗边界
+  citation: 强推荐成人慢性失眠的多成分 CBT-I，并对单项治疗作条件性建议；指南需按个人情况实施，不是在线自助处方。
+- id: PUB-404
+  source_refs:
+    - SRC-404
+  title: A Brief Mindfulness-Based Intervention for Chronic Pain
+  creator: Davies 等
+  date: "2023"
+  source_type: 随机安慰剂对照试验
+  url: https://pubmed.ncbi.nlm.nih.gov/37310492/
+  evidence_role: 疼痛主动对照与特异效果
+  citation: 一项短时在线正念干预在疼痛结局上未优于两个可信模拟条件；不能外推为所有长期项目或其他结局均无效。
+- id: PUB-425
+  source_refs:
+    - SRC-425
+  title: Efficacy of Mindfulness-Based Cognitive Therapy in Prevention of Depressive Relapse
+  creator: Kuyken 等
+  date: "2016"
+  source_type: 个体参与者数据元分析
+  url: https://pubmed.ncbi.nlm.nih.gov/27119968/
+  evidence_role: 抑郁复发预防边界
+  citation: 九项试验支持 MBCT 与复发性抑郁后续复发风险下降相关；不能保证个人效果，也不等于急性重度抑郁的独立自助治疗。
+- id: PUB-476
+  source_refs:
+    - SRC-476
+  title: Mindful Eating
+  creator: Harvard T.H. Chan School of Public Health
+  date: 持续更新
+  source_type: 机构营养科普
+  url: https://nutritionsource.hsph.harvard.edu/mindful-eating/
+  evidence_role: 正念饮食定义与体重边界
+  citation: 说明正念饮食缺少统一标准，体重结果并不一致；不能把它当作减重承诺或进食障碍治疗。
+- id: PUB-477
+  source_refs:
+    - SRC-477
+  title: Effects of Mindfulness-Based Interventions on Obesity-Related Eating Behaviors
+  creator: Kao 等
+  date: "2025"
+  source_type: 系统综述与元分析
+  url: https://pubmed.ncbi.nlm.nih.gov/39489689/
+  evidence_role: 进食行为效果与外推边界
+  citation: 部分进食行为指标出现变化，但情绪性进食与暴食的汇总结果并不显著；不能外推成固定练习、减重或临床治疗处方。
+- id: PUB-494
+  source_refs:
+    - SRC-494
+  title: The Effect of Mindfulness Meditation on Sleep Quality
+  creator: Rusch 等
+  date: "2019"
+  source_type: 系统综述与元分析
+  url: https://pmc.ncbi.nlm.nih.gov/articles/PMC6557693/
+  evidence_role: 睡眠效果与比较条件
+  citation: 相对非特异对照的睡眠质量结果较有利，但与特异治疗对照的优势不清；总体证据仍属初步，不能替代睡眠治疗。
+- id: PUB-495
+  source_refs:
+    - SRC-495
+  title: Mindfulness-Based Interventions for Craving and Substance Misuse
+  creator: Cavicchioli 等
+  date: "2018"
+  source_type: 系统综述与元分析
+  url: https://pubmed.ncbi.nlm.nih.gov/30016796/
+  evidence_role: 渴求与物质使用效果边界
+  citation: 汇总 37 项研究并报告部分渴求与物质使用结局变化，但结果依赖对照与设计；渴求变化不等于戒断安全、戒除或恢复完成。
+- id: PUB-523
+  source_refs:
+    - SRC-523
+  title: Human Nature, Buddha Nature
+  creator: Tina Fossella 访谈 John Welwood
+  date: "2011"
+  source_type: 概念提出者访谈
+  url: https://tricycle.org/magazine/human-nature-buddha-nature/
+  evidence_role: 灵性逃避概念原意
+  citation: 说明“灵性逃避”源自对借灵性实践绕开情绪、关系和发展任务的观察；不是诊断、发生率研究或反灵性证据。
+- id: PUB-305
+  source_refs:
+    - SRC-305
+  title: "More Than a Feeling: A Unified View of Stress Measurement"
+  creator: Epel 等
+  date: "2018"
+  source_type: 跨学科测量综述
+  url: https://pmc.ncbi.nlm.nih.gov/articles/PMC6345505/
+  evidence_role: 压力结局与测量边界
+  citation: 区分压力源、评价、情绪与生物反应，并强调情境和时间尺度；单一指标不能代表完整压力或证明冥想效果。
+- id: PUB-382
+  source_refs:
+    - SRC-382
+  title: Best Practices for Stress Measurement
+  creator: Crosswell、Lockwood
+  date: "2020"
+  source_type: 测量方法综述
+  url: https://pmc.ncbi.nlm.nih.gov/articles/PMC7359652/
+  evidence_role: 主客观指标组合
+  citation: 建议按问题区分压力源、主观评价、生理反应和时间尺度；不提供单一压力分数、个人诊断或固定处方。
+- id: PUB-422
+  source_refs:
+    - SRC-422
+  title: MBSR Authorized Curriculum Guide
+  creator: Santorelli、Meleo-Meyer、Koerbel、Kabat-Zinn 等
+  date: "2017"
+  source_type: 授权课程指南
+  url: https://mbsr.website/sites/default/files/docs/mbsr-curriculum-guide-2017.pdf
+  evidence_role: MBSR 方案身份
+  citation: 说明八周课程、全天练习、家庭练习、筛查和教师任务；课程规范界定方案，不证明人人有效或构成最低剂量处方。
+- id: PUB-423
+  source_refs:
+    - SRC-423
+  title: What Defines Mindfulness-Based Programs?
+  creator: Crane 等
+  date: "2017"
+  source_type: 专业方案定义框架
+  url: https://doi.org/10.1017/S0033291716003317
+  evidence_role: 多组件方案与改编边界
+  citation: 强调结构、体验式学习、教师能力、伦理和人群适配共同定义方案；不证明标准版必然优于所有改编。
+- id: PUB-424
+  source_refs:
+    - SRC-424
+  title: "Depression in Adults: Treatment and Management"
+  creator: 英国国家卫生与临床优化研究所（NICE）
+  date: "2022"
+  source_type: 临床指南
+  url: https://www.nice.org.uk/guidance/ng222/chapter/recommendations
+  evidence_role: MBCT 临床适用边界
+  citation: 在特定缓解且高复发风险成人中把团体 MBCT 列为可讨论选择；不能用于自诊、所有当前发作或自行停药。
+- id: PUB-426
+  source_refs:
+    - SRC-426
+  title: Modifying Resilience Mechanisms in At-Risk Individuals
+  creator: Johnson 等
+  date: "2014"
+  source_type: 受控军事研究
+  url: https://pmc.ncbi.nlm.nih.gov/articles/PMC4458258/
+  evidence_role: MMFT 压力恢复证据
+  citation: 海军陆战队排级研究报告部分压力恢复与生理差异；缺主动对照、短随访和单位分组限制因果及普遍推广。
+- id: PUB-427
+  source_refs:
+    - SRC-427
+  title: Minds “At Attention”
+  creator: Jha 等
+  date: "2015"
+  source_type: 军事队列准实验
+  url: https://pmc.ncbi.nlm.nih.gov/articles/PMC4324839/
+  evidence_role: 注意任务与军事外推
+  citation: 特定男性军人短版训练中部分注意任务结果有差异；单位分组和不匹配对照限制因果、日常功能与作战外推。
+- id: PUB-428
+  source_refs:
+    - SRC-428
+  title: Impact of Mindfulness Meditation Programs on Performance-Related Outcomes
+  creator: Hepner 等
+  date: "2022"
+  source_type: 军队表现系统综述
+  url: https://pmc.ncbi.nlm.nih.gov/articles/PMC9718060/
+  evidence_role: 军事实施与效果边界
+  citation: 部分注意、情绪调节与压力结果可能受益，但多项结果无支持且军人专门证据有限；不能承诺战备或韧性提升。
+- id: PUB-431
+  source_refs:
+    - SRC-431
+  title: Dismantling Mindfulness-Based Programs
+  creator: Stein、Witkiewitz
+  date: "2020"
+  source_type: 组件拆解系统综述
+  url: https://pmc.ncbi.nlm.nih.gov/articles/PMC9937445/
+  evidence_role: 完整方案与单项组件边界
+  citation: 仅找到少量异质组件研究；现有证据不能把完整方案效果稳定分配给某一个动作或生成统一有效组件清单。
+- id: PUB-440
+  source_refs:
+    - SRC-440
+  title: Loving-Kindness and Compassion Meditation
+  creator: Hofmann、Grossman、Hinton
+  date: "2011"
+  source_type: 叙述综述
+  url: https://pmc.ncbi.nlm.nih.gov/articles/PMC3176989/
+  evidence_role: 慈心慈悲构念边界
+  citation: 区分慈心与面向痛苦的慈悲并总结早期研究；证据初步且方案混合，不能承诺广泛临床效果。
+- id: PUB-441
+  source_refs:
+    - SRC-441
+  title: Effect of Loving-Kindness Meditation on Positive Emotions
+  creator: Zeng 等
+  date: "2015"
+  source_type: 系统综述与元分析
+  url: https://pmc.ncbi.nlm.nih.gov/articles/PMC4630307/
+  evidence_role: 慈心与正向情绪效果
+  citation: 24 项研究报告部分自报正向情绪平均变化，但组件复杂、研究有限；不能转运到所有慈悲练习或预测个人反应。
+- id: PUB-461
+  source_refs:
+    - SRC-461
+  title: A Mind You Can Count On
+  creator: Levinson 等
+  date: "2014"
+  source_type: 行为测量方法研究
+  url: https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2014.01202/full
+  evidence_role: 行为指标与构念边界
+  citation: 呼吸计数任务操作化部分注意偏离和主动发现；任务效度不等于日常疗效、完整正念或客观真相。
+- id: PUB-493
+  source_refs:
+    - SRC-493
+  title: Does Mindfulness Training Improve Cognitive Abilities?
+  creator: Chiesa、Calati、Serretti
+  date: "2011"
+  source_type: 系统综述
+  url: https://pubmed.ncbi.nlm.nih.gov/21183265/
+  evidence_role: 注意效果与任务外推
+  citation: 部分早期研究报告具体注意与执行任务变化，但训练、样本、设计和测量高度异质；不支持全面认知提升。
+- id: PUB-496
+  source_refs:
+    - SRC-496
+  title: Meditation and Cardiovascular Risk Reduction
+  creator: 美国心脏协会（AHA）
+  date: "2017"
+  source_type: 专业机构科学声明
+  url: https://pmc.ncbi.nlm.nih.gov/articles/PMC5721815/
+  evidence_role: 心血管效果与治疗边界
+  citation: 部分结果提示可能获益，但总体证据有限；冥想至多作为辅助考虑，不能替代指南支持的预防与治疗。
+- id: PUB-497
+  source_refs:
+    - SRC-497
+  title: Mindfulness Meditation and the Immune System
+  creator: Black、Slavich
+  date: "2016"
+  source_type: 随机试验系统综述
+  url: https://pmc.ncbi.nlm.nih.gov/articles/PMC4940234/
+  evidence_role: 免疫指标与临床外推
+  citation: 部分炎症与免疫指标可能变化，但研究和指标高度异质；单个标志物不能等同免疫增强、疾病改善或临床结局。
+- id: PUB-498
+  source_refs:
+    - SRC-498
+  title: Molecular Signature of Mind-Body Interventions
+  creator: Buric 等
+  date: "2017"
+  source_type: 基因表达系统综述
+  url: https://pmc.ncbi.nlm.nih.gov/articles/PMC5472657/
+  evidence_role: 基因表达与抗衰边界
+  citation: 混合身心干预研究报告部分表达信号，但设计和干预混杂；不能推出基因被改写、疾病风险下降或冥想单项因果。
+- id: PUB-507
+  source_refs:
+    - SRC-507
+  title: What We Can Do and What We Cannot Do With fMRI
+  creator: Nikos K. Logothetis
+  date: "2008"
+  source_type: 神经影像方法综述
+  url: https://pubmed.ncbi.nlm.nih.gov/18548064/
+  evidence_role: 仪器指标与解释链
+  citation: 说明 BOLD 是受神经血管耦合和时空尺度约束的间接信号；不能把激活图当神经元录像、单一心理功能或个人能力证明。
+- id: PUB-501
+  source_refs:
+    - SRC-501
+  title: Is Meditation Associated With Altered Brain Structure?
+  creator: Fox 等
+  date: "2014"
+  source_type: 神经影像系统综述与元分析
+  url: https://pubmed.ncbi.nlm.nih.gov/24705269/
+  evidence_role: 脑结构因果边界
+  citation: 早期结构研究多为小样本横断比较且有发表偏倚；脑结构关联不能证明练习造成变化或能力增强。
+- id: PUB-503
+  source_refs:
+    - SRC-503
+  title: Functional Neuroanatomy of Meditation
+  creator: Fox 等
+  date: "2016"
+  source_type: 功能影像综述与元分析
+  url: https://pubmed.ncbi.nlm.nih.gov/27032724/
+  evidence_role: 脑功能与练习异质性
+  citation: 不同冥想类型的活动模式并不相同；任务、样本和分析差异使活动结果不能自动等同效果或日常能力。
+- id: PUB-506
+  source_refs:
+    - SRC-506
+  title: Meditation States and Traits
+  creator: Cahn、Polich
+  date: "2006"
+  source_type: EEG 与影像综述
+  url: https://pubmed.ncbi.nlm.nih.gov/16536641/
+  evidence_role: EEG 与状态特质边界
+  citation: 不同实践的频段结果具有变异；脑波功率不是意识等级、疗效分数、稳定特质或个人冥想深度计。
+- id: PUB-355
+  source_refs:
+    - SRC-355
+  title: The Default Network and Self-Generated Thought
+  creator: Andrews-Hanna、Smallwood、Spreng
+  date: "2014"
+  source_type: 脑网络综述
+  url: https://pubmed.ncbi.nlm.nih.gov/24502540/
+  evidence_role: 默认网络功能边界
+  citation: 默认网络参与多类内部生成思考并与控制系统动态协作；不等于走神开关、个人读心或临床脑诊断。
+- id: PUB-360
+  source_refs:
+    - SRC-360
+  title: "Working Memory: Theories, Models, and Controversies"
+  creator: Alan Baddeley
+  date: "2012"
+  source_type: 理论综述
+  url: https://pubmed.ncbi.nlm.nih.gov/21961947/
+  evidence_role: 工作记忆构念边界
+  citation: 工作记忆包含短暂保持、操作及长期记忆互动等争议模型；单一任务或容量数字不是个人固定能力。
+- id: PUB-362
+  source_refs:
+    - SRC-362
+  title: From Reactive to Proactive and Selective Control
+  creator: Aron
+  date: "2011"
+  source_type: 认知神经科学综述
+  url: https://pmc.ncbi.nlm.nih.gov/articles/PMC3039712/
+  evidence_role: 抑制任务外推边界
+  citation: 停止任务主要研究动作刹车及准备；不能直接外推情绪冲动、复杂日常行为或单一停止脑区。
+- id: PUB-365
+  source_refs:
+    - SRC-365
+  title: The Plastic Human Brain Cortex
+  creator: Pascual-Leone 等
+  date: "2005"
+  source_type: 神经可塑性综述
+  url: https://pubmed.ncbi.nlm.nih.gov/16022601/
+  evidence_role: 神经可塑性方向边界
+  citation: 可塑性是神经系统适应经验的属性，既可支持学习也可参与异常模式；变化不自动等于改善或无限潜能。
+- id: PUB-371
+  source_refs:
+    - SRC-371
+  title: "Interoception and Mental Health: A Roadmap"
+  creator: Khalsa 等
+  date: "2018"
+  source_type: 专家路线图综述
+  url: https://pmc.ncbi.nlm.nih.gov/articles/PMC6054486/
+  evidence_role: 身体感觉测量边界
+  citation: 内感受包含感知、解释与整合，准确性、自报和注意不可混用；身体觉察越强不必然越健康。
+- id: PUB-373
+  source_refs:
+    - SRC-373
+  title: Breathing Rhythms and Emotions
+  creator: Homma、Masaoka
+  date: "2008"
+  source_type: 生理综述
+  url: https://doi.org/10.1113/expphysiol.2008.042424
+  evidence_role: 呼吸节律与情绪边界
+  citation: 呼吸输出来自脑干稳态与边缘／皮层互动；不能从一种节律直接读取具体情绪、个人脑活动或疗效。
+- id: PUB-375
+  source_refs:
+    - SRC-375
+  title: Overview of the Autonomic Nervous System
+  creator: Wehrwein、Orer、Barman
+  date: "2016"
+  source_type: 权威生理综述
+  url: https://pubmed.ncbi.nlm.nih.gov/27347892/
+  evidence_role: 自主神经系统边界
+  citation: 自主神经系统持续调节多类器官过程；不能缩成压力开关，也不能由单一心率或感受诊断全身状态。
+- id: PUB-377
+  source_refs:
+    - SRC-377
+  title: Regulation of the HPA Stress Response
+  creator: Herman 等
+  date: "2016"
+  source_type: 权威生理综述
+  url: https://pmc.ncbi.nlm.nih.gov/articles/PMC4867107/
+  evidence_role: HPA 轴时间与个人外推
+  citation: HPA 反应有时间延迟、反馈并受多种条件影响；机制研究不能直接预测个人皮质醇或练习效果。
+- id: PUB-379
+  source_refs:
+    - SRC-379
+  title: Overview of Heart Rate Variability Metrics and Norms
+  creator: Shaffer、Ginsberg
+  date: "2017"
+  source_type: 指标综述
+  url: https://pmc.ncbi.nlm.nih.gov/articles/PMC5624990/
+  evidence_role: HRV 指标解释边界
+  citation: HRV 指标受记录时长、年龄等条件影响且不能直接互换；较高 HRV 不普遍等于健康、平静或最优。
+- id: PUB-384
+  source_refs:
+    - SRC-384
+  title: Stress Revisited
+  creator: Koolhaas 等
+  date: "2011"
+  source_type: 批判性综述
+  url: https://pubmed.ncbi.nlm.nih.gov/21316391/
+  evidence_role: 急慢性压力概念边界
+  citation: 强生理动员不自动等于有害压力；不可预测、不可控制与恢复受阻是重要条件，但不是领域唯一口径。
+- id: PUB-402
+  source_refs:
+    - SRC-402
+  title: The Neuroscience of Placebo Effects
+  creator: Wager、Atlas
+  date: "2015"
+  source_type: 神经科学综述
+  url: https://pubmed.ncbi.nlm.nih.gov/26087681/
+  evidence_role: 期待效应与真假边界
+  citation: 情境、学习和期待可产生真实变化；镇痛机制不能外推所有症状、冥想方案或个人效果。
+- id: PUB-405
+  source_refs:
+    - SRC-405
+  title: The Alliance in Adult Psychotherapy
+  creator: Flückiger 等
+  date: "2018"
+  source_type: 元分析
+  url: https://pubmed.ncbi.nlm.nih.gov/29792475/
+  evidence_role: 关系与结果因果边界
+  citation: 治疗联盟与结果稳定相关但存在异质性；关联、反向影响和治疗语境不能证明好关系单独造成改善。
+- id: PUB-542
+  source_refs:
+    - SRC-316
+  title: How Breath-Control Can Change Your Life
+  creator: Zaccaro 等
+  date: "2018"
+  source_type: 主动慢呼吸系统综述
+  url: https://pmc.ncbi.nlm.nih.gov/articles/PMC6137615/
+  evidence_role: 主动呼吸与机制边界
+  citation: 健康成人主动慢呼吸研究呈现部分生理与心理信号，但操作和指标异质、机制仍有争议；不能外推所有呼吸法、临床疗效或个人最佳频率。
+- id: PUB-543
+  source_refs:
+    - SRC-317
+  title: Brief Structured Respiration Practices Enhance Mood and Reduce Physiological Arousal
+  creator: Balban 等
+  date: "2023"
+  source_type: 远程随机对照研究
+  url: https://pmc.ncbi.nlm.nih.gov/articles/PMC9873947/
+  evidence_role: 循环叹息与短期外推边界
+  citation: 108 名成人比较四周每日五分钟的三种主动呼吸与呼吸觉察；部分组间信号受短随访、远程执行、小组样本和结果选择限制。
+- id: PUB-524
+  source_refs:
+    - SRC-429
+  title: Can Acceptance, Mindfulness, and Self-Compassion Be Learned by Smartphone Apps?
+  creator: Linardon 等
+  date: "2020"
+  source_type: 随机试验系统综述与元分析
+  url: https://pubmed.ncbi.nlm.nih.gov/32586436/
+  evidence_role: 自助应用效果与质量边界
+  citation: 部分低强度应用在自报结果上有小幅平均优势，但偏倚和比较条件限制归因；不能为商店中所有同名应用背书。
+- id: PUB-544
+  source_refs:
+    - SRC-430
+  title: Impact of Guidance on Intervention Adherence in Computerised Interventions for Mental Health Problems
+  creator: Musiat 等
+  date: "2022"
+  source_type: 元分析
+  url: https://pubmed.ncbi.nlm.nih.gov/34802474/
+  evidence_role: 自助方案支持强度
+  citation: 网络心理干预中的人工指导与较高完成量相关；研究不只包含冥想，也不能说明每个人都需要同样支持。
+- id: PUB-545
+  source_refs:
+    - SRC-450
+  title: "The Buddhist Tantras: A Guide"
+  creator: David B. Gray
+  date: "2023"
+  source_type: 佛教密续学术导论
+  url: https://academic.oup.com/book/51700
+  evidence_role: 密法历史语境与授权边界
+  citation: 从历史、经典、仪轨和传播语境解释佛教密续；学术史不能提供灌顶、口传、实践授权或疗效证明。
+- id: PUB-546
+  source_refs:
+    - SRC-451
+  title: Preliminary Practices and the Formation of Tibetan Buddhism
+  creator: John Pickens
+  date: "2022"
+  source_type: 学术博士论文
+  url: https://escholarship.org/uc/item/9bz5n3v8
+  evidence_role: 师徒结构历史边界
+  citation: 追踪前行、上师瑜伽及上师地位的历史形成；历史研究不能规定所有当代师徒关系或替团体完成伦理问责。
+- id: PUB-528
+  source_refs:
+    - SRC-433
+  title: Practitioner’s Guide to Ethics and Mindfulness-Based Interventions
+  creator: Monteiro、Compson、Musten 编
+  date: "2017"
+  source_type: 实践伦理手册
+  url: https://link.springer.com/book/10.1007/978-3-319-64924-5
+  evidence_role: 练习关系与机构伦理
+  citation: 讨论知情同意、教师能力、专业边界和机构权力；伦理框架不能替具体课程完成资格审查、风险评估和问责。
+- id: PUB-529
+  source_refs:
+    - SRC-460
+  title: Attention Regulation and Monitoring in Meditation
+  creator: Lutz、Slagter、Dunne、Davidson
+  date: "2008"
+  source_type: 理论综述
+  url: https://pmc.ncbi.nlm.nih.gov/articles/PMC2693206/
+  evidence_role: 注意练习分类边界
+  citation: 区分选择对象的专注练习与开放监测，并讨论偏离和重新定向；理论分类不能证明某类练习更高级或更有效。
+- id: PUB-530
+  source_refs:
+    - SRC-464
+  title: 5-4-3-2-1 Grounding Technique
+  creator: Hull University Teaching Hospitals NHS Trust
+  date: "2023"
+  source_type: 机构患者教育材料
+  url: https://www.hey.nhs.uk/wp/wp-content/uploads/2023/02/HEY1318-2022-5-4-3-2-1-Grounding-Technique.pdf
+  evidence_role: 感官定向动作与安全边界
+  citation: 提供五感与数量顺序的现实定向脚手架；固定序列不能证明独立临床效果或确认当事人已经安全。
+- id: PUB-531
+  source_refs:
+    - SRC-468
+  title: The Effects of Body Scan Meditation
+  creator: Gan、Zhang、Chen
+  date: "2022"
+  source_type: 系统综述与元分析
+  url: https://pubmed.ncbi.nlm.nih.gov/35538557/
+  evidence_role: 身体扫描单项效果边界
+  citation: 14 篇随机试验提示部分正念指标的小幅变化，但健康结果、研究质量与异质性限制结论；不能预测个人反应。
+- id: PUB-532
+  source_refs:
+    - SRC-470
+  title: Mettasutta—Loving Kindness
+  creator: SuttaCentral；Bhikkhu Sujato 译
+  date: 传统文本
+  source_type: 佛教传统文本
+  url: https://suttacentral.net/snp1.8/en/sujato
+  evidence_role: 慈心传统语境
+  citation: 呈现愿众生幸福安全、不伤害与广阔友善的传统规范；经典不能验证现代疗效或要求练习者面向危险对象。
+- id: PUB-533
+  source_refs:
+    - SRC-471
+  title: A Meta-Analysis of Compassion-Based Interventions
+  creator: Kirby、Tellegen、Steindl
+  date: "2017"
+  source_type: 系统综述与元分析
+  url: https://pubmed.ncbi.nlm.nih.gov/29029675/
+  evidence_role: 慈悲方案效果边界
+  citation: 多种慈悲干预呈现部分群体平均变化，但样本、方法质量和方案对象仍有限；不能把组合结果归给一句祝愿或一次动作。
+- id: PUB-534
+  source_refs:
+    - SRC-472
+  title: Empathy and Compassion
+  creator: Singer、Klimecki
+  date: "2014"
+  source_type: 概念综述
+  url: https://pubmed.ncbi.nlm.nih.gov/25247366/
+  evidence_role: 共情与慈悲概念边界
+  citation: 区分分享他人负性情绪与面向痛苦的关切、帮助方向；概念和神经研究不能作为个人分类器或伦理证明。
+- id: PUB-535
+  source_refs:
+    - SRC-473
+  title: How to Practice Tonglen Meditation
+  creator: Pema Chödrön；Lion’s Roar
+  date: 页面持续更新
+  source_type: 藏传教师练习说明
+  url: https://www.lionsroar.com/how-to-practice-tonglen/
+  evidence_role: 施受传统做法与自学边界
+  citation: 说明一位藏传教师如何组织施受的呼吸与意象阶段；教师解释不能证明普遍疗效或要求练习者承担他人痛苦。
+- id: PUB-536
+  source_refs:
+    - SRC-322
+  title: Effectiveness of Mantra-Based Meditation on Mental Health
+  creator: Álvarez-Pérez 等
+  date: "2022"
+  source_type: 系统综述与元分析
+  url: https://pmc.ncbi.nlm.nih.gov/articles/PMC8949812/
+  evidence_role: 重复语句效果与安全边界
+  citation: 51 项随机研究的偏倚、异质性、长期随访和不良事件报告有限；总体结果不能转成具体语句、传统或个人处方。
+- id: PUB-537
+  source_refs:
+    - SRC-475
+  title: "Yoga: Effectiveness and Safety"
+  creator: 美国国家补充与整合健康中心（NCCIH）
+  date: 2023（页面持续更新）
+  source_type: 机构研究与安全综合
+  url: https://www.nccih.nih.gov/health/yoga-what-you-need-to-know
+  evidence_role: 瑜伽动作安全与外推边界
+  citation: 区分瑜伽风格并提示伤害、平衡、孕期、年龄和特定健康状况的修改需求；完整瑜伽证据不能转给短时正念动作。
+- id: PUB-538
+  source_refs:
+    - SRC-483
+  title: Emotional and Physical Health Benefits of Expressive Writing
+  creator: Baikie、Wilhelm
+  date: "2005"
+  source_type: 专业综述
+  url: https://www.cambridge.org/core/journals/advances-in-psychiatric-treatment/article/emotional-and-physical-health-benefits-of-expressive-writing/ED2976A61F5DE56B46F07A1CE9EA9F9F
+  evidence_role: 情绪书写动作与风险边界
+  citation: 描述表达性书写流程、短期痛苦上升和适用差异；不能保证个人获益，也不支持把任何日记称为治疗。
+- id: PUB-539
+  source_refs:
+    - SRC-484
+  title: Effects of Yoga Nidra on Stress, Anxiety, and Depression
+  creator: Ghai 等
+  date: "2026"
+  source_type: 系统综述与元分析
+  url: https://pmc.ncbi.nlm.nih.gov/articles/PMC12917937/
+  evidence_role: Yoga Nidra 效果边界
+  citation: 汇总研究报告部分平均变化，同时指出方法质量低、交付差异大且效果可能高估；不能把结果归给一次音频或当作睡眠替代。
+- id: PUB-540
+  source_refs:
+    - SRC-485
+  title: Efficacy of Progressive Muscle Relaxation in Adults for Stress, Anxiety, and Depression
+  creator: Muhammad Khir 等
+  date: "2024"
+  source_type: 系统综述
+  url: https://pmc.ncbi.nlm.nih.gov/articles/PMC10844009/
+  evidence_role: 渐进肌肉放松效果边界
+  citation: 成人研究呈现部分平均改善，但人群、剂量、设计和组合干预不同；不能保证单次练习、个人效果或治疗替代。
+- id: PUB-541
+  source_refs:
+    - SRC-486
+  title: "Relaxation Techniques: What You Need To Know"
+  creator: 美国国家补充与整合健康中心（NCCIH）
+  date: 页面持续更新
+  source_type: 机构研究与安全综合
+  url: https://www.nccih.nih.gov/health/relaxation-techniques-what-you-need-to-know
+  evidence_role: 放松练习定义与安全边界
+  citation: 定义渐进肌肉放松并提示偶见焦虑、侵入性想法或失控恐惧；特定身体与精神状况需谨慎，不能生成个人处方。
+- id: PUB-547
+  source_refs:
+    - SRC-463
+  title: "Self Help Resources: Grounding Techniques"
+  creator: Hampshire Hospitals NHS Foundation Trust
+  date: 页面持续更新
+  source_type: 机构自助说明
+  url: https://www.hampshirehospitals.nhs.uk/our-services/a-z-departments-and-specialties/bereavement/maternity-bereavement-service/self-help
+  evidence_role: 接触锚定与现实定向
+  citation: 提供双脚着地、活动脚趾、按压掌心和感官定向动作；特定支持情境的自助建议不能替代创伤、解离或其他疾病治疗。
+- id: PUB-548
+  source_refs:
+    - SRC-347
+  title: Decentering and Related Constructs
+  creator: Bernstein 等
+  date: "2015"
+  source_type: 批判性综述与元认知模型
+  url: https://pubmed.ncbi.nlm.nih.gov/26385999/
+  evidence_role: 念头标记与去中心化边界
+  citation: 整合元觉察、降低认同和降低反应等过程；不是标记练习的固定步骤、个人测量或临床效果验证。
+- id: PUB-549
+  source_refs:
+    - SRC-295
+  title: Putting Feelings Into Words
+  creator: Lieberman 等
+  date: "2007"
+  source_type: 原始 fMRI 任务研究
+  url: https://pubmed.ncbi.nlm.nih.gov/17576282/
+  evidence_role: 情绪标记任务与脑外推
+  citation: 特定看图标记任务呈现脑活动条件差异；不能证明日常自我命名会关闭杏仁核、必然减轻痛苦或产生临床效果。
+- id: PUB-550
+  source_refs:
+    - SRC-469
+  title: "Putting Feelings Into Words: Affect Labeling as Implicit Emotion Regulation"
+  creator: Torre、Lieberman
+  date: "2018"
+  source_type: 叙述综述
+  url: https://www.scn.ucla.edu/pdf/Torre(2018)PuttingFeelingsIntoWords.pdf
+  evidence_role: 情绪标记效果条件
+  citation: 整理情绪标记的体验、生理、神经和行为研究，同时指出机制与条件仍不清楚；不能生成人人适用的即时降温配方。
+- id: PUB-551
+  source_refs:
+    - SRC-321
+  title: Mental Imagery in Emotion and Emotional Disorders
+  creator: Holmes、Mathews
+  date: "2010"
+  source_type: 心理意象综述
+  url: https://pubmed.ncbi.nlm.nih.gov/20116915/
+  evidence_role: 意象体验与停止边界
+  citation: 心理意象可能强烈带动情绪，也可能涉及侵入性画面；非冥想综述不能证明山意象或其他观想有特定疗效。
+- id: PUB-552
+  source_refs:
+    - SRC-474
+  title: Mindful Walking by Sarah Pace
+  creator: Oxford Mindfulness
+  date: "2026"
+  source_type: 机构练习引导
+  url: https://oxfordmindfulness.org/free-meditations/mindful-walking-by-sarah-pace
+  evidence_role: 行走练习动作与环境边界
+  citation: 确认正念行走可作为独立引导练习；简短页面和音频不能证明单项效果或适合所有行走环境。
+- id: PUB-553
+  source_refs:
+    - SRC-478
+  title: Mindfulness
+  creator: 英国 NHS
+  date: 2021（页面持续更新）
+  source_type: 公众健康说明
+  url: https://www.nhs.uk/mental-health/self-help/tips-and-support/mindfulness/
+  evidence_role: 日常觉察与适用边界
+  citation: 以进食、走路和触觉说明日常觉察，并提醒正念并非适合所有人；公众自助说明不能验证某项活动的独立效果。
+- id: PUB-554
+  source_refs:
+    - SRC-479
+  title: Breathing Space by Claire Kelly
+  creator: Oxford Mindfulness
+  date: "2024"
+  source_type: 机构练习引导
+  url: https://www.oxfordmindfulness.org/free-meditations/example-recorded-practise-4
+  evidence_role: 呼吸空间结构与效果边界
+  citation: 把呼吸空间描述为检查状态、暂停、聚拢并选择下一步；机构引导不验证固定三分钟的独立疗效，也不能替代完整 MBCT。
+- id: PUB-555
+  source_refs:
+    - SRC-480
+  title: Thought Record CBT Exercise
+  creator: 英国 NHS Every Mind Matters
+  date: "2022"
+  source_type: 公众 CBT 自助指引
+  url: https://www.nhs.uk/every-mind-matters/mental-wellbeing-tips/self-help-cbt-techniques/thought-record/
+  evidence_role: 想法记录动作与现实边界
+  citation: 提供情境、感受、想法、证据和替代看法的记录结构；不能把现实伤害改写为认知错误或替代治疗。
+- id: PUB-556
+  source_refs:
+    - SRC-481
+  title: The Socratic Method in Cognitive Behavioural Therapy
+  creator: Clark、Egan
+  date: "2015"
+  source_type: 叙述综述
+  url: https://doi.org/10.1007/s10608-015-9707-3
+  evidence_role: 苏格拉底提问方法边界
+  citation: 支持把苏格拉底提问理解为引导发现而非直接说服；具体技术与临床结局证据有限，不能宣称独立疗效。
+- id: PUB-557
+  source_refs:
+    - SRC-308
+  title: On the Universality and Cultural Specificity of Emotion Recognition
+  creator: Elfenbein、Ambady
+  date: "2002"
+  source_type: 跨文化元分析
+  url: https://pubmed.ncbi.nlm.nih.gov/11931516/
+  evidence_role: 情绪识别与文化外推
+  citation: 跨文化识别存在群体平均与接触差异；不能据此预测个人、固定文化表情或形成族群刻板印象。
+- id: PUB-558
+  source_refs:
+    - SRC-320
+  title: The Relaxation Response
+  creator: Benson、Beary、Carol
+  date: "1974"
+  source_type: 早期概念研究
+  url: https://pubmed.ncbi.nlm.nih.gov/4810622/
+  evidence_role: 放松概念与机制边界
+  citation: 建立特定历史操作下的放松反应概念；年代、样本与后续解释限制将其外推为所有冥想或祈祷的统一机制。
+- id: PUB-559
+  source_refs:
+    - SRC-318
+  title: Home Practice in MBCT and MBSR
+  creator: Parsons 等
+  date: "2017"
+  source_type: 系统综述与元分析
+  url: https://pmc.ncbi.nlm.nih.gov/articles/PMC5501725/
+  evidence_role: 正式练习剂量边界
+  citation: 家庭正式练习量与结果呈小幅关联且高度异质；相关不能证明剂量因果、个人最低时长或非正式练习无效。
+- id: PUB-560
+  source_refs:
+    - SRC-319
+  title: An Exploration of Formal and Informal Mindfulness Practice
+  creator: Birtwell、Williams、van Marwijk
+  date: "2019"
+  source_type: 横断调查
+  url: https://link.springer.com/article/10.1007/s12671-018-0951-y
+  evidence_role: 练习场景与因果边界
+  citation: 便利样本描述正式、非正式练习及现实困难；横断自报关联不能证明效果或规定最佳安排。
+- id: PUB-561
+  source_refs:
+    - SRC-432
+  title: Ethics, Values, Virtues, and Character Strengths in Mindfulness-Based Interventions
+  creator: Ruth A. Baer
+  date: "2015"
+  source_type: 心理科学概念论文
+  url: https://doi.org/10.1007/s12671-015-0419-2
+  evidence_role: 练习伦理与道德外推
+  citation: 讨论正念干预中的伦理与价值教学，并提醒注意训练不自动产生道德行为；概念论文不能证明特定规范有效。
+- id: PUB-562
+  source_refs:
+    - SRC-434
+  title: Sangha
+  creator: Thomas Borchert
+  date: "2012"
+  source_type: 佛教研究学术概览
+  url: https://academic.oup.com/obo/viewentry/10.1093%24002fobo%24002f9780195393521-0006
+  evidence_role: 僧团语义与团体边界
+  citation: 区分僧尼、圣者及更宽的四众共同体含义；学术概览不能裁定具体团体正统、安全或有效。
+- id: PUB-563
+  source_refs:
+    - SRC-438
+  title: Mahā-Assapura Sutta (MN 39)
+  creator: SuttaCentral；Bhikkhu Sujato 译
+  date: 传统文本
+  source_type: 巴利经典公开译文
+  url: https://suttacentral.net/mn39/en/sujato
+  evidence_role: 禅定传统文本语境
+  citation: 呈现四禅次第、禅支和传统目标；经典规范不能成为现代脑科学、医学或个人境界事实。
+- id: PUB-564
+  source_refs:
+    - SRC-439
+  title: Toward a Unified Account of Advanced Concentrative Absorption Meditation
+  creator: Sparby、Sacchet
+  date: "2024"
+  source_type: 现代手册文献比较
+  url: https://meditation.mgh.harvard.edu/files/Sparby_24_Mindfulness.pdf
+  evidence_role: 禅那定义争议
+  citation: 八套现代禅那手册在对象、感官、自我感和深度上存在分歧；文献分类不能裁定唯一正统或个人境界。
+- id: PUB-565
+  source_refs:
+    - SRC-442
+  title: Anattalakkhaṇa Sutta (SN 22.59)
+  creator: SuttaCentral；Bhikkhu Bodhi 译
+  date: 传统文本
+  source_type: 巴利经典公开译文
+  url: https://suttacentral.net/sn22.59/en/bodhi
+  evidence_role: 无我传统论证
+  citation: 以五蕴的变化、逼迫和不可完全主宰说明非我；经典不等于现代人格理论、脑科学或个人证悟认证。
+- id: PUB-566
+  source_refs:
+    - SRC-443
+  title: Mind in Indian Buddhist Philosophy
+  creator: Christian Coseru；Stanford Encyclopedia of Philosophy
+  date: "2010"
+  source_type: 学术哲学概览
+  url: https://plato.stanford.edu/archives/spr2011/entries/mind-indian-buddhism/
+  evidence_role: 无我哲学与个人外推
+  citation: 梳理无我、五蕴与人格连续的解释分歧；哲学条目不能判定个人体验、宗派正统或临床状态。
+- id: PUB-567
+  source_refs:
+    - SRC-445
+  title: Cūḷasuññata Sutta (MN 121)
+  creator: SuttaCentral；Bhikkhu Sujato 译
+  date: 传统文本
+  source_type: 巴利经典公开译文
+  url: https://suttacentral.net/mn121/en/sujato
+  evidence_role: 空性早期文本语境
+  citation: 呈现“空于不在场者、如实知道仍在场者”的一种早期用法；不能代表后世全部空性哲学。
+- id: PUB-568
+  source_refs:
+    - SRC-444
+  title: Nāgārjuna
+  creator: Jan Westerhoff；Stanford Encyclopedia of Philosophy
+  date: "2026"
+  source_type: 学术哲学条目
+  url: https://plato.stanford.edu/entries/nagarjuna/
+  evidence_role: 空性与虚无主义边界
+  citation: 解释中观对自性与依赖关系的分析，并区分无自性与否定因果或现象；不替宗派裁定唯一解释。
+- id: PUB-569
+  source_refs:
+    - SRC-446
+  title: What Is Buddhist Enlightenment?
+  creator: Dale S. Wright
+  date: "2016"
+  source_type: 当代佛教哲学专著
+  url: https://academic.oup.com/book/4345
+  evidence_role: 开悟语义与认证边界
+  citation: 追溯 enlightenment 的现代语义并讨论觉醒、伦理与人类可错性；作者观点不构成跨传统定义或个人认证。
+- id: PUB-570
+  source_refs:
+    - SRC-447
+  title: Nibbedhika Sutta (AN 6.63)
+  creator: SuttaCentral；Bhikkhu Sujato 译
+  date: 传统文本
+  source_type: 巴利经典公开译文
+  url: https://suttacentral.net/an6.63/en/sujato
+  evidence_role: 业力传统定义
+  citation: 以意向为业并连接身语意行动与传统果报世界观；不能升级为现代因果或个人命运解释。
+- id: PUB-571
+  source_refs:
+    - SRC-448
+  title: Karma
+  creator: Peter Harvey
+  date: "2018"
+  source_type: 佛教伦理学术综述
+  url: https://academic.oup.com/edited-volume/28081/chapter-abstract/212107445
+  evidence_role: 业力伦理与归责边界
+  citation: 梳理意向、善不善、果报和其他条件；不裁定轮回事实，也不支持用业力解释个人全部遭遇。
+- id: PUB-572
+  source_refs:
+    - SRC-449
+  title: The Forerunner of All Things
+  creator: Maria Heim
+  date: "2013"
+  source_type: 上座部佛教思想史专著
+  url: https://academic.oup.com/book/3903
+  evidence_role: 业力思想史边界
+  citation: 研究意向在经、论、律和叙事中的行动与责任语境；单一论师传统不能代表全部佛教或现代心理学。
+- id: PUB-573
+  source_refs:
+    - SRC-457
+  title: Movement-Based Embodied Contemplative Practices
+  creator: Schmalzl、Crane-Godreau、Payne
+  date: "2014"
+  source_type: 概念论文
+  url: https://www.frontiersin.org/journals/human-neuroscience/articles/10.3389/fnhum.2014.00205/full
+  evidence_role: 动态练习分类边界
+  citation: 支持把动作作为沉思实践的独立比较维度；概念整合不能证明不同传统共享统一机制或疗效。
+- id: PUB-574
+  source_refs:
+    - SRC-458
+  title: Satipaṭṭhāna Sutta (MN 10)
+  creator: SuttaCentral；Bhikkhu Sujato 译
+  date: 传统文本
+  source_type: 巴利经典公开译文
+  url: https://suttacentral.net/mn10/en/sujato
+  evidence_role: 静态与动态传统语境
+  citation: 把行、住、坐、卧和日常动作纳入觉察；传统安排不能直接证明现代健康效果或个体适配。
+- id: PUB-575
+  source_refs:
+    - SRC-061
+  title: "Catechism: Meditation and Contemplative Prayer"
+  creator: The Holy See
+  date: 教理持续发布
+  source_type: 宗教机构原始文本
+  url: https://www.vatican.va/content/catechism/en/part_four/section_one/chapter_three/article_1/ii_meditation.html
+  evidence_role: 基督教沉思与祈祷语境
+  citation: 说明天主教语境中默想会使用思想、想象、情感和欲望，并以基督信仰为目标；不能代表全部基督宗派或承担健康疗效。
+- id: PUB-576
+  source_refs:
+    - SRC-307
+  title: Emotion-Focused Therapy
+  creator: Leslie S. Greenberg
+  date: "2004"
+  source_type: 临床治疗理论论文
+  url: https://onlinelibrary.wiley.com/doi/10.1002/cpp.388
+  evidence_role: 原发／继发情绪定义边界
+  citation: 以原发、继发及适应／非适应反应帮助治疗理解与介入；这是特定临床框架，不是普遍生物层级、读心工具或分类的独立疗效验证。
+- id: PUB-577
+  source_refs:
+    - SRC-294
+  title: How to Handle Anxiety
+  creator: Hofmann、Heering、Sawyer、Asnaani
+  date: "2009"
+  source_type: 短时随机实验
+  url: https://pubmed.ncbi.nlm.nih.gov/19281966/
+  evidence_role: 接纳比较与任务外推
+  citation: 公开演讲任务中接纳、重评与抑制在部分主观和生理指标上不同；不能证明任何策略普遍最佳或能揭示真正底层情绪。
+- id: PUB-578
+  source_refs:
+    - SRC-296
+  title: Knowing What You're Feeling and Knowing What to Do About It
+  creator: Barrett、Gross、Christensen、Benvenuto
+  date: "2001"
+  source_type: 14 天日记与实验室研究
+  url: https://doi.org/10.1080/02699930143000239
+  evidence_role: 情绪粒度关联边界
+  citation: 负面情绪区分程度与调节频率相关，尤其在较强负面情绪下；未建立精细命名的因果、最佳粒度或冥想效果。
+- id: PUB-579
+  source_refs:
+    - SRC-299
+  title: Paradoxical Effects of Thought Suppression
+  creator: Wegner、Schneider、Carter、White
+  date: "1987"
+  source_type: 原始实验
+  url: https://pubmed.ncbi.nlm.nih.gov/3612492/
+  evidence_role: 念头压制与回避外推
+  citation: 指定白熊念头的五分钟压制任务出现未完全压住和后续占据效应；不能外推所有情绪回避或要求强迫面对痛苦。
+- id: PUB-580
+  source_refs:
+    - SRC-341
+  title: Feeling Bad About Being Sad
+  creator: Bastian 等
+  date: "2012"
+  source_type: 四项原始研究
+  url: https://pubmed.ncbi.nlm.nih.gov/21787076/
+  evidence_role: 强迫积极与二次评价
+  citation: 感知到他人要求自己不要难过与更多负面情绪及负面自我评价相关；文化差异和实验情境限制对所有积极表达的外推。
+- id: PUB-581
+  source_refs:
+    - SRC-342
+  title: The Psychological Health Benefits of Accepting Negative Emotions and Thoughts
+  creator: Ford、Lam、John、Mauss
+  date: "2018"
+  source_type: 实验室、日记与纵向研究
+  url: https://pubmed.ncbi.nlm.nih.gov/28703602/
+  evidence_role: 接纳关联与因果边界
+  citation: 习惯接纳与压力下较少额外负面反应及后续部分心理健康指标相关；不是长期随机干预，也不能证明适合所有处境。
+- id: PUB-582
+  source_refs:
+    - SRC-292
+  title: Rumination and Social Problem-Solving in Depression
+  creator: Watkins、Baracaia
+  date: "2002"
+  source_type: 原始比较研究
+  url: https://pubmed.ncbi.nlm.nih.gov/12375726/
+  evidence_role: 反刍与问题解决边界
+  citation: 抑郁相关样本中过程导向与状态导向反刍式提问呈现不同任务表现；特定人群、短时任务和比较条件不能生成普遍问题解决处方。
+- id: PUB-583
+  source_refs:
+    - SRC-301
+  title: The Social Consequences of Expressive Suppression
+  creator: Butler 等
+  date: "2003"
+  source_type: 双人互动实验
+  url: https://pubmed.ncbi.nlm.nih.gov/12899316/
+  evidence_role: 关系互动与表达边界
+  citation: 陌生女性配对讨论中，一方表达抑制影响沟通、融洽与部分生理结果；不能证明所有克制伤害关系或表达越多越好。
+- id: PUB-584
+  source_refs:
+    - SRC-300
+  title: Relationship Status and Perceived Support in the Social Regulation of Neural Responses to Threat
+  creator: Coan 等
+  date: "2017"
+  source_type: 原始威胁与接触实验
+  url: https://pubmed.ncbi.nlm.nih.gov/28985422/
+  evidence_role: 共同调节与接触外推
+  citation: 电击威胁下熟悉伙伴握手与较低部分主观及脑反应有关；不能外推所有关系、接触、支持形式或个人安全。
+- id: PUB-585
+  source_refs:
+    - SRC-338
+  title: Sensory Processing Sensitivity in the Context of Environmental Sensitivity
+  creator: Greven 等
+  date: "2019"
+  source_type: 批判性综述
+  url: https://pubmed.ncbi.nlm.nih.gov/30639671/
+  evidence_role: 刺激敏感定义与诊断边界
+  citation: 把感觉加工敏感性作为环境敏感性个体差异概念，同时指出客观测量、机制及与人格和心理状况的区分仍需发展。
+- id: PUB-586
+  source_refs:
+    - SRC-331
+  title: Self-Compassion Increases Self-Improvement Motivation
+  creator: Breines、Chen
+  date: "2012"
+  source_type: 四项短时实验
+  url: https://pubmed.ncbi.nlm.nih.gov/22645164/
+  evidence_role: 自我批评与改进动机
+  citation: 自我同情条件在若干任务中未削弱改进动机，并增加部分弥补或准备意愿；不能外推长期表现、临床人群或所有文化处境。
+- id: PUB-587
+  source_refs:
+    - SRC-332
+  title: Self-Compassion-Related Interventions for Reducing Self-Criticism
+  creator: Wakelin、Perman、Simonds
+  date: "2022"
+  source_type: 系统综述与元分析
+  url: https://pubmed.ncbi.nlm.nih.gov/33749936/
+  evidence_role: 自我批评干预效果边界
+  citation: 20 个随机试验中干预相较控制呈中等群体平均降低，但研究质量中等、异质性高且主动对照效果较小。
+- id: PUB-588
+  source_refs:
+    - SRC-339
+  title: The Relationship Between Perfectionism and Psychopathology
+  creator: Limburg 等
+  date: "2017"
+  source_type: 元分析
+  url: https://pubmed.ncbi.nlm.nih.gov/28026869/
+  evidence_role: 完美主义维度与相关边界
+  citation: 284 项研究中完美主义追求与担忧均和多类心理问题存在群体关联；异质相关研究不能证明单向因果、个人诊断或所有高标准有害。
+- id: PUB-589
+  source_refs:
+    - SRC-340
+  title: Perfectionism and Symptoms of Depression, Anxiety and Obsessive-Compulsive Disorder
+  creator: Smith 等
+  date: "2024"
+  source_type: 系统综述与元分析
+  url: https://pubmed.ncbi.nlm.nih.gov/37955236/
+  evidence_role: 完美主义担忧与临床外推
+  citation: 成人研究中担忧维度与多类症状关联较强，追求维度关联较小；主要为群体相关，不能确定成因或预测个人结局。
+- id: PUB-590
+  source_refs:
+    - SRC-350
+  title: The Development and Initial Validation of the Cognitive Fusion Questionnaire
+  creator: Gillanders 等
+  date: "2014"
+  source_type: 量表开发与初步验证研究
+  url: https://pubmed.ncbi.nlm.nih.gov/24411117/
+  evidence_role: 认知融合操作化边界
+  citation: 多组样本为认知融合自报量表提供初步结构、信度和效度证据；量表不能诊断个人、证明因果或统一所有相邻构念。
+- id: PUB-591
+  source_refs:
+    - SRC-352
+  title: The Evolution of the Cognitive Model of Depression and Its Neurobiological Correlates
+  creator: Aaron T. Beck
+  date: "2008"
+  source_type: 临床理论回顾
+  url: https://pubmed.ncbi.nlm.nih.gov/18628348/
+  evidence_role: 念头核对与临床模型边界
+  citation: 回顾自动思维、认知偏差、信念和信息加工模型；不能把抑郁单因化、把所有消极念头病理化或用脑区推断个人。
+- id: PUB-592
+  source_refs:
+    - SRC-353
+  title: Thought Suppression
+  creator: Wenzlaff、Wegner
+  date: "2000"
+  source_type: 研究综述
+  url: https://pubmed.ncbi.nlm.nih.gov/10751965/
+  evidence_role: 念头压制外推边界
+  citation: 汇集多个领域的念头压制研究并讨论反常效应与方法限制；不能把“越压越多”写成对所有内容、时间与人群成立的定律。
+- id: PUB-593
+  source_refs:
+    - SRC-363
+  title: Situational Strategies for Self-Control
+  creator: Duckworth、Gendler、Gross
+  date: "2016"
+  source_type: 理论综述
+  url: https://pmc.ncbi.nlm.nih.gov/articles/PMC4736542/
+  evidence_role: 自控策略与情境边界
+  citation: 按冲动发展时间线组织情境选择、改变、注意、评价和反应策略；不证明每项提前策略普遍有效或适合所有处境。
+- id: PUB-594
+  source_refs:
+    - SRC-364
+  title: Self-Control as Value-Based Choice
+  creator: Berkman、Hutcherson、Livingston、Kahn
+  date: "2017"
+  source_type: 理论模型论文
+  url: https://pmc.ncbi.nlm.nih.gov/articles/PMC5765996/
+  evidence_role: 自控价值模型边界
+  citation: 把自控理解为多个选项主观价值的动态整合，以修正冷热系统交战比喻；不是个人价值读数或最终统一机制。
+- id: PUB-595
+  source_refs:
+    - SRC-343
+  title: Fundamental Components of Attention
+  creator: Eric I. Knudsen
+  date: "2007"
+  source_type: 注意机制理论综述
+  url: https://pubmed.ncbi.nlm.nih.gov/17417935/
+  evidence_role: 注意功能概念边界
+  citation: 以工作记忆、目标调节、竞争选择和显著刺激过滤组织注意过程；属于理论框架，不是唯一分类或个人注意力测量。
+- id: PUB-596
+  source_refs:
+    - SRC-349
+  title: Mental Training Affects Distribution of Limited Brain Resources
+  creator: Slagter 等
+  date: "2007"
+  source_type: 原始行为与脑电研究
+  url: https://pmc.ncbi.nlm.nih.gov/articles/PMC1868961/
+  evidence_role: 选择性注意任务与训练外推
+  citation: 密集训练组在特定注意瞬断任务和部分脑电指标上发生变化；不能外推普通短练、日常专注或统一脑资源机制。
+- id: PUB-597
+  source_refs:
+    - SRC-348
+  title: The Cognitive Neuroscience of Sustained Attention
+  creator: Sarter、Givens、Bruno
+  date: "2001"
+  source_type: 认知神经科学综述
+  url: https://pubmed.ncbi.nlm.nih.gov/11336780/
+  evidence_role: 持续注意定义与外推边界
+  citation: 以长时间准备发现少见信号界定持续注意；实验范式不能直接诊断个人日常分心或规定练习时长。
+- id: PUB-598
+  source_refs:
+    - SRC-344
+  title: Distraction and Mind-Wandering Under Load
+  creator: Sophie Forster
+  date: "2013"
+  source_type: 研究综述
+  url: https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2013.00283/full
+  evidence_role: 分心类型与负荷边界
+  citation: 外部干扰与内部走神对任务负荷的反应并非单一路径；不能据此制定个人最佳负荷公式或诊断注意问题。
+- id: PUB-599
+  source_refs:
+    - SRC-345
+  title: Task Switching
+  creator: Stephen Monsell
+  date: "2003"
+  source_type: 任务切换研究综述
+  url: https://pubmed.ncbi.nlm.nih.gov/12639695/
+  evidence_role: 任务切换与日常外推
+  citation: 简单任务中切换后常更慢且更易出错，准备可降低但不能消除成本；不能换算个人每次中断的固定损失。
+- id: PUB-600
+  source_refs:
+    - SRC-346
+  title: "Automaticity: A Theoretical and Conceptual Analysis"
+  creator: Moors、De Houwer
+  date: "2006"
+  source_type: 理论与概念综述
+  url: https://pubmed.ncbi.nlm.nih.gov/16536645/
+  evidence_role: 自动性概念边界
+  citation: 无意图、无意识、快速、省力和难控制等自动性特征应分别考察；“自动”不是全有或全无的单一模式。
+- id: PUB-601
+  source_refs:
+    - SRC-351
+  title: Narrative Identity
+  creator: McAdams、McLean
+  date: "2013"
+  source_type: 叙事身份研究综述
+  url: https://doi.org/10.1177/0963721413475622
+  evidence_role: 自我叙事定义与文化边界
+  citation: 把叙事身份界定为重构过去与想象未来的持续生命故事；关联研究不能要求逆境必须产生意义或规定健康故事模板。
+- id: PUB-602
+  source_refs:
+    - SRC-354
+  title: Self-Referential Processing in Our Brain
+  creator: Northoff 等
+  date: "2006"
+  source_type: 脑成像元分析
+  url: https://pubmed.ncbi.nlm.nih.gov/16466680/
+  evidence_role: 自我相关加工与脑成像边界
+  citation: 早期自我参照任务常涉及皮层中线区域并呈内部差异；群体平均激活不能读取个人自我感或证明固定自我模块。
+- id: PUB-603
+  source_refs:
+    - SRC-408
+  title: Information Overload in the Information Age
+  creator: Roetzel
+  date: "2019"
+  source_type: 跨学科文献综述
+  url: https://link.springer.com/article/10.1007/s40685-018-0069-z
+  evidence_role: 信息过载概念边界
+  citation: 把过载放在信息、任务、时间与处理资源的关系中；研究定义异质，不能给个人计算统一过载阈值。
+- id: PUB-604
+  source_refs:
+    - SRC-409
+  title: Why Is It So Hard to Do My Work?
+  creator: Sophie Leroy
+  date: "2009"
+  source_type: 注意残留原始实验研究
+  url: https://doi.org/10.1016/j.obhdp.2009.04.002
+  evidence_role: 注意残留原始证据
+  citation: 未完成任务切换后，前一任务内容仍可占据注意并伴随新任务表现下降；不能证明每次切换都有固定损失。
+- id: PUB-605
+  source_refs:
+    - SRC-410
+  title: Tasks Interrupted
+  creator: Leroy、Glomb
+  date: "2018"
+  source_type: 中断与注意残留原始研究
+  url: https://doi.org/10.1287/orsc.2017.1184
+  evidence_role: 注意残留与接续计划边界
+  citation: 研究条件下，记录停点与恢复计划可缓解部分残留；不能替代组织层减少中断或处理任务不清。
+- id: PUB-606
+  source_refs:
+    - SRC-412
+  title: Is Mindfulness Buddhist? (And Why It Matters)
+  creator: Robert H. Sharf
+  date: "2015"
+  source_type: 佛教正念与现代改革历史论文
+  url: https://pubmed.ncbi.nlm.nih.gov/25361692/
+  evidence_role: 现代正念历史与传统边界
+  citation: 追溯现代当下觉察版本与二十世纪佛教改革的关系；不能裁定所有传统正统性或证明具体课程疗效。
+- id: PUB-607
+  source_refs:
+    - SRC-414
+  title: Satipaṭṭhānasutta—Middle Discourses 10
+  creator: Bhikkhu Sujato 英译／SuttaCentral
+  date: 当前译文
+  source_type: 传统经典公开译文
+  url: https://suttacentral.net/mn10/en/sujato
+  evidence_role: 佛教传统一手语境
+  citation: 呈现四念处的对象、动作与传统目标；经典不能当作现代临床效果、历史唯一版本或个人密集练习处方。
+- id: PUB-608
+  source_refs:
+    - SRC-415
+  title: Buddhist Meditation Traditions in Tibet
+  creator: Sarah Shaw
+  date: "2024"
+  source_type: 学术章节
+  url: https://doi.org/10.4324/9781003168966-8
+  evidence_role: 藏传冥想传统范围
+  citation: 梳理藏地不同传统的显密实践范围；概览不能替代各宗派一手文本、实践授权或现代疗效研究。
+- id: PUB-609
+  source_refs:
+    - SRC-416
+  title: Deity Practice in the FPMT
+  creator: Glenys Eddy
+  date: "2019"
+  source_type: 质性田野研究
+  url: https://doi.org/10.1080/14755610.2019.1627376
+  evidence_role: 本尊实践语境边界
+  citation: 特定中心的实践者把本尊实践放在教义、空性与权威关系中理解；不能代表全部藏传宗派或验证神学主张。
+- id: PUB-610
+  source_refs:
+    - SRC-417
+  title: Yoga Sutras of Patanjali
+  creator: Edwin Bryant／Internet Encyclopedia of Philosophy
+  date: 当前条目
+  source_type: 学术哲学条目
+  url: https://iep.utm.edu/yoga/
+  evidence_role: 古典瑜伽传统语境
+  citation: 梳理古典瑜伽八支及专注、冥想、三摩地的关系；不能把古典解脱论、神异主张或现代课程疗效当事实。
+- id: PUB-611
+  source_refs:
+    - SRC-418
+  title: Bhakti
+  creator: Ankur Barua／St Andrews Encyclopaedia of Theology
+  date: "2024"
+  source_type: 神学学术条目
+  url: https://www.saet.ac.uk/Hinduism/Bhakti
+  evidence_role: 奉爱传统语境
+  citation: 从文本、体验、仪式与社会层次说明奉爱不只是声音重复；不能代表全部印度教、验证神圣因果或证明心理疗效。
+- id: PUB-612
+  source_refs:
+    - SRC-419
+  title: "Catechism of the Catholic Church: II. Meditation"
+  creator: 天主教会
+  date: "1992"
+  source_type: 官方规范性文本
+  url: https://www.vatican.va/content/catechism/en/part_four/section_one/chapter_three/article_1/ii_meditation.html
+  evidence_role: 基督教默想官方语境
+  citation: 把默想放在基督徒回应信仰与祈祷的语境中；代表天主教规范性说明，不等于全部基督教共识或科学疗效证据。
+- id: PUB-613
+  source_refs:
+    - SRC-420
+  title: Verbum Domini
+  creator: 教宗本笃十六世
+  date: "2010"
+  source_type: 天主教官方规范性文本
+  url: https://www.vatican.va/content/benedict-xvi/en/apost_exhortations/documents/hf_ben-xvi_exh_20100930_verbum-domini.html
+  evidence_role: 经文默想与行动语境
+  citation: 把祈祷式经文阅读组织为阅读、默想、祈祷、默观与行动；不能变成跨教派唯一方法或健康处方。
+- id: PUB-614
+  source_refs:
+    - SRC-421
+  title: Some Reflections on the Origins of MBSR
+  creator: Jon Kabat-Zinn
+  date: "2011"
+  source_type: 创建者历史反思
+  url: https://www.tandfonline.com/doi/full/10.1080/14639947.2011.564844
+  evidence_role: MBSR 世俗化一手回顾
+  citation: 创建者说明 MBSR 进入医疗语境时的语言与伦理选择；个人回顾不能独自代表完整历史或解决世俗化争议。
+- id: PUB-403
+  source_refs:
+    - SRC-403
+  title: The Pervasive Problem With Placebos in Psychology
+  creator: Boot、Simons、Stothart、Stutts
+  date: "2013"
+  source_type: 心理干预研究设计方法评论
+  url: https://pubmed.ncbi.nlm.nih.gov/26173122/
+  evidence_role: 主动对照与组件归因边界
+  citation: 主动对照只有在改善期待等关键情境因素可比时，才更能隔离特定干预成分；不证明具体结果必然全由安慰剂造成。
