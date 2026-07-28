@@ -8,6 +8,7 @@
 
 <p align="center">
   <a href="https://meditation-knowledge-atlas.vercel.app">在线交互地图</a> ·
+  <a href="https://aiyouwendu.com/products">冥想产品</a> ·
   <a href="./paths/README.md">九问入口</a> ·
   <a href="./nodes/README.md">知识节点</a> ·
   <a href="./topics/README.md">专题长路线</a> ·
@@ -22,6 +23,12 @@
 - **8 种知识职责**：区分概念、练习、机制、困难、回应、证据、安全与传统；
 - **L1 / L2 两层节点**：49 个核心地标形成第一层地图，159 个深入节点按需展开；
 - **4 条专题长路线**：为需要连续阅读的问题保留完整路径。
+
+## 冥想产品
+
+知识地图负责整理概念、实践、证据和安全边界；相关冥想产品集中展示在：
+
+**[爱有温度｜冥想产品页面](https://aiyouwendu.com/products)**
 
 ## 从真实问题开始
 
