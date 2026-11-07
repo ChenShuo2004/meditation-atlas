@@ -1,3 +1,5 @@
+> **English:** A navigable meditation knowledge map connecting real questions with concepts, practices, evidence, and safety boundaries.
+
 <p align="center">
   <img src="./assets/cover.png" alt="冥想知识地图" width="100%">
 </p>
